@@ -1,0 +1,1946 @@
+2026-09-13 12:29:10.623 main  Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-13 12:29:10.631 Thread-0ERROR: IOException: Server Socket|keystore.jks (No such file or directory)
+2026-09-13 12:32:18.875 main  Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-13 12:32:19.018 Thread-0Server is listening on port: 8080
+2026-09-13 12:32:45.647 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58972
+2026-09-13 12:32:45.653 Thread-0Starting thread: Thread-1
+2026-09-13 12:32:45.654 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58973
+2026-09-13 12:32:45.654 Thread-0Starting thread: Thread-2
+2026-09-13 12:32:45.737 Thread-2ERROR: Something is wrong with Thread: Thread-2 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:32:45.737 Thread-1ERROR: Something is wrong with Thread: Thread-1 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:32:48.522 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58979
+2026-09-13 12:32:48.523 Thread-0Starting thread: Thread-3
+2026-09-13 12:32:48.524 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58980
+2026-09-13 12:32:48.525 Thread-0Starting thread: Thread-4
+2026-09-13 12:32:48.567 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58981
+2026-09-13 12:32:48.567 Thread-4ERROR: Something is wrong with Thread: Thread-4 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:32:48.567 Thread-3ERROR: Something is wrong with Thread: Thread-3 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:32:48.567 Thread-0Starting thread: Thread-5
+2026-09-13 12:35:02.706 main  Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-13 12:35:02.857 Thread-0Server is listening on port: 8080
+2026-09-13 12:35:02.954 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:59089
+2026-09-13 12:35:02.956 Thread-0Starting thread: Thread-1
+2026-09-13 12:35:02.956 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:59090
+2026-09-13 12:35:02.956 Thread-0Starting thread: Thread-2
+2026-09-13 12:35:03.009 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:59091
+2026-09-13 12:35:03.009 Thread-0Starting thread: Thread-3
+2026-09-13 12:35:03.011 Thread-2ERROR: Something is wrong with Thread: Thread-2 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:35:03.011 Thread-1ERROR: Something is wrong with Thread: Thread-1 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:37:30.015 main  Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-13 12:37:30.141 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-13 12:39:18.207 main  Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-13 12:39:18.330 Thread-0Server is listening on port: 80
+2026-09-13 12:39:24.703 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:59307
+2026-09-13 12:39:24.705 Thread-0Starting thread: Thread-1
+2026-09-13 12:39:24.706 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:59308
+2026-09-13 12:39:24.706 Thread-0Starting thread: Thread-2
+2026-09-13 12:39:24.774 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:59309
+2026-09-13 12:39:24.774 Thread-0Starting thread: Thread-3
+2026-09-13 12:39:24.777 Thread-2ERROR: Something is wrong with Thread: Thread-2 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-13 12:39:24.777 Thread-1ERROR: Something is wrong with Thread: Thread-1 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-14 11:39:18.910 main  Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-14 11:39:19.070 Thread-0Server is listening on port: 80
+2026-09-14 11:39:24.048 main  Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-14 11:39:24.206 Thread-0Server is listening on port: 80
+2026-09-15 11:25:46.648 main  Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-15 11:25:46.774 Thread-0Server is listening on port: 80
+2026-09-15 11:25:51.086 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58139
+2026-09-15 11:25:51.088 Thread-0Starting thread: Thread-1
+2026-09-15 11:25:51.088 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58140
+2026-09-15 11:25:51.090 Thread-0Starting thread: Thread-2
+2026-09-15 11:25:51.209 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:58141
+2026-09-15 11:25:51.209 Thread-0Starting thread: Thread-3
+2026-09-15 11:25:51.209 Thread-2ERROR: Something is wrong with Thread: Thread-2 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-15 11:25:51.209 Thread-1ERROR: Something is wrong with Thread: Thread-1 | (certificate_unknown) Received fatal alert: certificate_unknown
+2026-09-15 12:43:38.979 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-15 12:43:38.980 Thread-0http serverSocket is listening on port: 8080
+2026-09-15 12:43:38.980 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-15 12:43:39.099 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-15 12:44:23.846 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-15 12:44:23.848 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-15 12:44:23.849 Thread-0http serverSocket is listening on port: 8080
+2026-09-15 12:44:23.983 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-15 12:44:30.037 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-15 12:44:30.038 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-15 12:44:30.039 Thread-0http serverSocket is listening on port: 8080
+2026-09-15 12:44:30.159 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-15 12:45:58.673 Thread-0Server Accepts Client Connection from: /127.0.0.1:62807
+2026-09-15 12:45:58.674 Thread-0Starting thread: Thread-2
+2026-09-15 12:46:23.756 Thread-1Server Accepts Client Connection from: /127.0.0.1:62833
+2026-09-15 12:46:23.756 Thread-1Starting thread: Thread-3
+2026-09-15 16:24:32.986 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-15 16:24:32.988 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-15 16:24:32.988 Thread-0http serverSocket is listening on port: 8080
+2026-09-15 16:24:33.100 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-15 16:24:35.547 Thread-1Server Accepts Client Connection from: /127.0.0.1:58800
+2026-09-15 16:24:35.548 Thread-1Starting thread: Thread-2
+2026-09-15 16:24:38.632 Thread-0Server Accepts Client Connection from: /127.0.0.1:58806
+2026-09-15 16:24:38.632 Thread-0Starting thread: Thread-3
+2026-09-16 11:51:59.291 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 11:51:59.293 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 11:51:59.293 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 11:51:59.463 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 11:52:14.383 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 11:52:14.385 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 11:52:14.385 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 11:52:14.510 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 11:52:16.569 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 11:52:16.571 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 11:52:16.571 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 11:52:16.696 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 11:53:01.647 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 11:53:01.649 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 11:53:01.649 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 11:53:01.783 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 11:53:08.066 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 11:53:08.068 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 11:53:08.068 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 11:53:08.165 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 11:53:29.712 Thread-0Server Accepts Client Connection from: /127.0.0.1:50439
+2026-09-16 11:53:29.714 Thread-0Starting thread: Thread-2
+2026-09-16 11:55:21.976 Thread-0Server Accepts Client Connection from: /127.0.0.1:50553
+2026-09-16 11:55:21.978 Thread-0Starting thread: Thread-3
+2026-09-16 11:55:21.986 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 12:55:04.253 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:55:04.255 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:55:04.263 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:55:15.787 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:55:15.789 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:55:46.995 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:55:47.905 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:55:55.694 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:55:55.696 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:56:23.393 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:56:24.021 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 12:56:24.022 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 12:56:24.022 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:56:24.140 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:56:29.821 Thread-0Server Accepts Client Connection from: /127.0.0.1:54516
+2026-09-16 12:56:29.823 Thread-0Starting thread: Thread-2
+2026-09-16 12:56:29.832 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 12:56:41.334 Thread-0Server Accepts Client Connection from: /127.0.0.1:54531
+2026-09-16 12:56:41.334 Thread-0Starting thread: Thread-3
+2026-09-16 12:56:43.000 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 12:56:57.016 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:56:57.018 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:56:57.024 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:56:57.174 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:57:00.830 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:57:00.832 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:57:00.839 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:57:00.974 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:57:04.689 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:57:04.692 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:57:04.699 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:57:04.833 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:57:08.877 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:57:08.879 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:57:08.886 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:57:09.023 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:57:16.337 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:57:16.339 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:57:24.832 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:57:25.726 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:57:39.381 Thread-0Server Accepts Client Connection from: /127.0.0.1:54609
+2026-09-16 12:57:39.384 Thread-0Starting thread: Thread-2
+2026-09-16 12:58:38.124 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 12:58:38.146 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 12:58:41.958 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:58:41.960 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:58:52.462 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:58:53.126 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 12:58:53.128 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 12:59:06.371 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 12:59:07.267 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 12:59:15.310 Thread-0Server Accepts Client Connection from: /127.0.0.1:54762
+2026-09-16 12:59:15.313 Thread-0Starting thread: Thread-2
+2026-09-16 13:12:30.690 Thread-0Server Accepts Client Connection from: /127.0.0.1:55528
+2026-09-16 13:12:30.692 Thread-0Starting thread: Thread-3
+2026-09-16 13:12:30.692 Thread-0Server Accepts Client Connection from: /127.0.0.1:55542
+2026-09-16 13:12:30.692 Thread-0Starting thread: Thread-4
+2026-09-16 13:12:52.023 Thread-4ERROR: Error at Thread:Thread-4 There is an issue with the routing logic.
+2026-09-16 13:12:52.024 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 13:12:52.023 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:12:52.027 Thread-4ERROR: Something is wrong with Thread: Thread-4 | Connection reset
+2026-09-16 13:12:52.027 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 13:12:52.028 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:12:54.880 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:12:54.881 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:12:54.882 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:12:55.018 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:13:01.491 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:13:01.493 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:13:16.477 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:13:18.633 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:13:18.636 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:13:23.855 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:13:24.777 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:13:33.726 Thread-0Server Accepts Client Connection from: /127.0.0.1:55628
+2026-09-16 13:13:33.729 Thread-0Starting thread: Thread-2
+2026-09-16 13:14:20.881 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:14:58.356 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:14:58.358 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:10.479 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:11.155 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:11.157 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:15.969 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:16.894 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:15:19.516 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:19.519 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:19.526 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:19.664 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:15:23.873 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:23.875 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:23.882 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:24.019 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:15:35.911 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:35.913 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:35.920 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:36.061 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:15:40.082 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:40.085 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:40.092 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:40.209 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:15:44.505 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:44.507 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:44.514 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:44.655 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:15:50.102 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:15:50.105 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:15:50.112 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:15:50.255 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:16:02.506 Thread-0Server Accepts Client Connection from: /127.0.0.1:55825
+2026-09-16 13:16:02.507 Thread-0Starting thread: Thread-2
+2026-09-16 13:19:55.684 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:19:55.694 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:20:04.554 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:20:04.556 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:20:04.564 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:20:04.699 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:20:29.440 Thread-0Server Accepts Client Connection from: /127.0.0.1:56101
+2026-09-16 13:20:29.442 Thread-0Starting thread: Thread-2
+2026-09-16 13:21:37.904 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:21:37.905 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:21:37.906 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:21:38.038 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:21:43.709 Thread-0Server Accepts Client Connection from: /127.0.0.1:56185
+2026-09-16 13:21:43.711 Thread-0Starting thread: Thread-2
+2026-09-16 13:33:31.714 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:33:31.716 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:33:31.723 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:33:31.862 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:33:39.457 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:33:39.459 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:33:39.465 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:33:39.606 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:33:45.852 Thread-0Server Accepts Client Connection from: /127.0.0.1:56907
+2026-09-16 13:33:45.854 Thread-0Starting thread: Thread-2
+2026-09-16 13:36:26.427 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:36:28.137 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:36:28.138 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:36:28.139 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:36:28.260 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:37:47.974 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:37:47.976 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:37:47.976 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:37:48.097 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:37:53.466 Thread-0Server Accepts Client Connection from: /127.0.0.1:57154
+2026-09-16 13:37:53.467 Thread-0Starting thread: Thread-2
+2026-09-16 13:38:05.752 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:38:05.754 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:38:05.754 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:38:05.878 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:38:09.584 Thread-0Server Accepts Client Connection from: /127.0.0.1:57177
+2026-09-16 13:38:09.585 Thread-0Starting thread: Thread-2
+2026-09-16 13:38:22.388 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:38:22.390 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:38:22.390 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:38:22.509 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:38:24.159 Thread-0Server Accepts Client Connection from: /127.0.0.1:57197
+2026-09-16 13:38:24.159 Thread-0Starting thread: Thread-2
+2026-09-16 13:39:14.460 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:39:14.462 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:39:14.462 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:39:14.594 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:39:16.945 Thread-0Server Accepts Client Connection from: /127.0.0.1:57259
+2026-09-16 13:39:16.946 Thread-0Starting thread: Thread-2
+2026-09-16 13:39:32.881 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:39:32.883 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:39:41.173 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:39:41.855 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:39:41.857 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:40:04.180 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:40:10.617 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:40:10.619 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:40:10.619 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:40:10.739 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:40:15.238 Thread-0Server Accepts Client Connection from: /127.0.0.1:57336
+2026-09-16 13:40:15.239 Thread-0Starting thread: Thread-2
+2026-09-16 13:40:28.390 Thread-0Server Accepts Client Connection from: /127.0.0.1:57353
+2026-09-16 13:40:28.390 Thread-0Starting thread: Thread-3
+2026-09-16 13:40:38.328 Thread-0Server Accepts Client Connection from: /127.0.0.1:57366
+2026-09-16 13:40:38.328 Thread-0Starting thread: Thread-4
+2026-09-16 13:40:49.617 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:40:49.620 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:40:49.627 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:40:49.766 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:40:52.383 Thread-0Server Accepts Client Connection from: /127.0.0.1:57385
+2026-09-16 13:40:52.385 Thread-0Starting thread: Thread-2
+2026-09-16 13:41:18.328 Thread-0Server Accepts Client Connection from: /127.0.0.1:57417
+2026-09-16 13:41:18.329 Thread-0Starting thread: Thread-3
+2026-09-16 13:42:55.123 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 13:43:39.833 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:43:39.834 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:43:39.834 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:43:39.961 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:43:41.973 Thread-0Server Accepts Client Connection from: /127.0.0.1:57580
+2026-09-16 13:43:41.975 Thread-0Starting thread: Thread-2
+2026-09-16 13:44:04.563 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:44:04.565 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:44:04.571 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:44:04.703 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:44:19.347 Thread-0Server Accepts Client Connection from: /127.0.0.1:57615
+2026-09-16 13:44:19.349 Thread-0Starting thread: Thread-2
+2026-09-16 13:46:41.043 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:46:41.045 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:46:41.045 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:46:41.171 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:46:45.889 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:46:45.891 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:46:45.891 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:46:46.016 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:46:49.406 Thread-0Server Accepts Client Connection from: /127.0.0.1:57769
+2026-09-16 13:46:49.408 Thread-0Starting thread: Thread-2
+2026-09-16 13:47:37.682 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:47:37.684 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:47:37.684 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:47:37.811 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:47:41.719 Thread-0Server Accepts Client Connection from: /127.0.0.1:57827
+2026-09-16 13:47:41.719 Thread-0Starting thread: Thread-2
+2026-09-16 13:47:45.683 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:47:45.685 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:47:45.685 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:47:45.812 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:47:53.082 Thread-0Server Accepts Client Connection from: /127.0.0.1:57842
+2026-09-16 13:47:53.083 Thread-0Starting thread: Thread-2
+2026-09-16 13:47:53.097 Thread-0Server Accepts Client Connection from: /127.0.0.1:57843
+2026-09-16 13:47:53.097 Thread-0Starting thread: Thread-3
+2026-09-16 13:48:05.313 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:48:05.315 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:48:05.315 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:48:05.427 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:48:08.932 Thread-0Server Accepts Client Connection from: /127.0.0.1:57876
+2026-09-16 13:48:08.932 Thread-0Starting thread: Thread-2
+2026-09-16 13:48:11.810 Thread-0Server Accepts Client Connection from: /127.0.0.1:57881
+2026-09-16 13:48:11.810 Thread-0Starting thread: Thread-3
+2026-09-16 13:48:11.820 Thread-0Server Accepts Client Connection from: /127.0.0.1:57882
+2026-09-16 13:48:11.821 Thread-0Starting thread: Thread-4
+2026-09-16 13:50:51.766 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:50:51.768 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:50:51.775 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:50:51.911 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:51:41.380 Thread-0Server Accepts Client Connection from: /127.0.0.1:58100
+2026-09-16 13:51:41.382 Thread-0Starting thread: Thread-2
+2026-09-16 13:52:01.411 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:52:01.413 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:52:01.420 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:52:01.554 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:52:04.750 Thread-0Server Accepts Client Connection from: /127.0.0.1:58124
+2026-09-16 13:52:04.752 Thread-0Starting thread: Thread-2
+2026-09-16 13:52:21.868 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:52:34.009 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:52:44.747 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:52:44.749 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:52:44.756 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:52:44.895 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:52:51.486 Thread-0Server Accepts Client Connection from: /127.0.0.1:58180
+2026-09-16 13:52:51.488 Thread-0Starting thread: Thread-2
+2026-09-16 13:53:34.850 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:53:34.852 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:54:52.209 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 13:54:52.211 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:54:52.211 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 13:54:52.338 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:54:56.563 Thread-0Server Accepts Client Connection from: /127.0.0.1:58320
+2026-09-16 13:54:56.564 Thread-0Starting thread: Thread-2
+2026-09-16 13:55:00.695 Thread-0Server Accepts Client Connection from: /127.0.0.1:58325
+2026-09-16 13:55:00.695 Thread-0Starting thread: Thread-3
+2026-09-16 13:55:28.338 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 13:57:15.365 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:57:15.367 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:57:15.374 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:57:15.509 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:57:23.329 Thread-0Server Accepts Client Connection from: /127.0.0.1:58465
+2026-09-16 13:57:23.332 Thread-0Starting thread: Thread-2
+2026-09-16 13:57:36.549 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:57:36.554 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:57:40.107 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:57:40.109 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:57:40.116 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:57:40.222 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:57:48.400 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:57:48.402 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:57:48.409 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:57:48.543 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:57:54.398 Thread-0Server Accepts Client Connection from: /127.0.0.1:58505
+2026-09-16 13:57:54.400 Thread-0Starting thread: Thread-2
+2026-09-16 13:58:08.282 Thread-0Server Accepts Client Connection from: /127.0.0.1:58518
+2026-09-16 13:58:08.283 Thread-0Starting thread: Thread-3
+2026-09-16 13:58:08.287 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 13:58:08.289 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 13:58:12.030 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:58:12.032 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:58:12.039 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:58:12.178 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:58:16.726 Thread-0Server Accepts Client Connection from: /127.0.0.1:58536
+2026-09-16 13:58:16.729 Thread-0Starting thread: Thread-2
+2026-09-16 13:58:31.083 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 13:58:31.088 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 13:58:34.041 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 13:58:34.043 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 13:58:34.049 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 13:58:34.182 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 13:59:26.334 Thread-0Server Accepts Client Connection from: /127.0.0.1:58647
+2026-09-16 13:59:26.337 Thread-0Starting thread: Thread-2
+2026-09-16 13:59:46.042 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:00:06.438 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:00:13.131 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:00:13.133 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:00:13.139 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:00:13.272 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:00:19.999 Thread-0Server Accepts Client Connection from: /127.0.0.1:58706
+2026-09-16 14:00:20.002 Thread-0Starting thread: Thread-2
+2026-09-16 14:01:52.789 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:01:52.795 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:01:59.468 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:01:59.470 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:01:59.470 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:01:59.586 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:02:09.142 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:02:09.144 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:02:09.144 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:02:09.262 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:02:22.370 Thread-0Server Accepts Client Connection from: /127.0.0.1:58832
+2026-09-16 14:02:22.371 Thread-0Starting thread: Thread-2
+2026-09-16 14:02:22.389 Thread-0Server Accepts Client Connection from: /127.0.0.1:58833
+2026-09-16 14:02:22.389 Thread-0Starting thread: Thread-3
+2026-09-16 14:04:51.413 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:04:51.415 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:04:51.415 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:04:51.537 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:04:52.817 Thread-0Server Accepts Client Connection from: /127.0.0.1:58994
+2026-09-16 14:04:52.818 Thread-0Starting thread: Thread-2
+2026-09-16 14:04:52.838 Thread-0Server Accepts Client Connection from: /127.0.0.1:58995
+2026-09-16 14:04:52.839 Thread-0Starting thread: Thread-3
+2026-09-16 14:24:00.868 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:24:00.870 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:24:00.870 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:24:00.991 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:24:03.677 Thread-0Server Accepts Client Connection from: /127.0.0.1:60145
+2026-09-16 14:24:03.683 Thread-0Starting thread: Thread-2
+2026-09-16 14:24:07.710 Thread-0Server Accepts Client Connection from: /127.0.0.1:60151
+2026-09-16 14:24:07.710 Thread-0Starting thread: Thread-3
+2026-09-16 14:24:07.724 Thread-0Server Accepts Client Connection from: /127.0.0.1:60152
+2026-09-16 14:24:07.724 Thread-0Starting thread: Thread-4
+2026-09-16 14:24:18.903 Thread-0Server Accepts Client Connection from: /127.0.0.1:60168
+2026-09-16 14:24:18.904 Thread-0Starting thread: Thread-5
+2026-09-16 14:24:18.915 Thread-0Server Accepts Client Connection from: /127.0.0.1:60169
+2026-09-16 14:24:18.915 Thread-0Starting thread: Thread-6
+2026-09-16 14:24:23.147 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:24:23.149 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:24:23.150 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:24:23.247 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:24:26.213 Thread-0Server Accepts Client Connection from: /127.0.0.1:60180
+2026-09-16 14:24:26.214 Thread-0Starting thread: Thread-2
+2026-09-16 14:24:30.658 Thread-0Server Accepts Client Connection from: /127.0.0.1:60188
+2026-09-16 14:24:30.658 Thread-0Starting thread: Thread-3
+2026-09-16 14:24:30.672 Thread-0Server Accepts Client Connection from: /127.0.0.1:60189
+2026-09-16 14:24:30.672 Thread-0Starting thread: Thread-4
+2026-09-16 14:24:56.885 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:24:56.887 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:24:56.893 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:24:57.000 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:25:05.537 Thread-0Server Accepts Client Connection from: /127.0.0.1:60237
+2026-09-16 14:25:05.539 Thread-0Starting thread: Thread-2
+2026-09-16 14:25:20.561 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:25:20.565 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:25:35.452 Thread-0Server Accepts Client Connection from: /127.0.0.1:60271
+2026-09-16 14:25:35.452 Thread-0Starting thread: Thread-3
+2026-09-16 14:25:37.804 Thread-0Server Accepts Client Connection from: /127.0.0.1:60274
+2026-09-16 14:25:37.805 Thread-0Starting thread: Thread-4
+2026-09-16 14:27:20.504 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:27:20.506 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:27:20.512 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:27:20.643 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:27:24.515 Thread-0Server Accepts Client Connection from: /127.0.0.1:60385
+2026-09-16 14:27:24.516 Thread-0Starting thread: Thread-2
+2026-09-16 14:27:28.136 Thread-0Server Accepts Client Connection from: /127.0.0.1:60388
+2026-09-16 14:27:28.136 Thread-0Starting thread: Thread-3
+2026-09-16 14:27:32.000 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 14:28:15.618 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:28:15.619 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:28:15.619 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:28:15.742 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:28:18.366 Thread-0Server Accepts Client Connection from: /127.0.0.1:60442
+2026-09-16 14:28:18.368 Thread-0Starting thread: Thread-2
+2026-09-16 14:28:18.383 Thread-0Server Accepts Client Connection from: /127.0.0.1:60443
+2026-09-16 14:28:18.383 Thread-0Starting thread: Thread-3
+2026-09-16 14:32:56.066 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:32:56.067 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:32:56.068 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:32:56.187 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:32:58.439 Thread-0Server Accepts Client Connection from: /127.0.0.1:60754
+2026-09-16 14:32:58.442 Thread-0Starting thread: Thread-2
+2026-09-16 14:32:58.460 Thread-0Server Accepts Client Connection from: /127.0.0.1:60755
+2026-09-16 14:32:58.460 Thread-0Starting thread: Thread-3
+2026-09-16 14:33:13.411 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:33:13.413 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:33:13.419 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:33:13.549 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:33:24.787 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:33:24.789 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:33:24.795 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:33:24.934 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:33:28.781 Thread-0Server Accepts Client Connection from: /127.0.0.1:60794
+2026-09-16 14:33:28.783 Thread-0Starting thread: Thread-2
+2026-09-16 14:33:32.545 Thread-0Server Accepts Client Connection from: /127.0.0.1:60802
+2026-09-16 14:33:32.545 Thread-0Starting thread: Thread-3
+2026-09-16 14:33:36.875 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 14:33:41.063 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:33:41.065 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:33:41.071 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:33:41.204 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:33:44.711 Thread-0Server Accepts Client Connection from: /127.0.0.1:60818
+2026-09-16 14:33:44.713 Thread-0Starting thread: Thread-2
+2026-09-16 14:33:46.608 Thread-0Server Accepts Client Connection from: /127.0.0.1:60821
+2026-09-16 14:33:46.609 Thread-0Starting thread: Thread-3
+2026-09-16 14:33:51.343 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 14:34:01.532 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:34:01.534 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:34:01.540 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:34:01.683 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:34:04.198 Thread-0Server Accepts Client Connection from: /127.0.0.1:60843
+2026-09-16 14:34:04.200 Thread-0Starting thread: Thread-2
+2026-09-16 14:34:57.108 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:34:57.110 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:35:00.084 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:35:00.086 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:35:00.092 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:35:00.223 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:35:04.432 Thread-0Server Accepts Client Connection from: /127.0.0.1:60912
+2026-09-16 14:35:04.434 Thread-0Starting thread: Thread-2
+2026-09-16 14:35:18.023 Thread-0Server Accepts Client Connection from: /127.0.0.1:60931
+2026-09-16 14:35:18.023 Thread-0Starting thread: Thread-3
+2026-09-16 14:35:42.679 Thread-0Server Accepts Client Connection from: /127.0.0.1:60952
+2026-09-16 14:35:42.680 Thread-0Starting thread: Thread-4
+2026-09-16 14:35:42.684 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 14:35:42.685 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 14:35:44.568 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:35:44.570 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:35:44.576 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:35:44.703 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:35:47.264 Thread-0Server Accepts Client Connection from: /127.0.0.1:60966
+2026-09-16 14:35:47.266 Thread-0Starting thread: Thread-2
+2026-09-16 14:36:32.838 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:36:32.844 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:47:04.368 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:47:04.370 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:47:04.376 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:47:04.510 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:47:09.429 Thread-0Server Accepts Client Connection from: /127.0.0.1:61662
+2026-09-16 14:47:09.431 Thread-0Starting thread: Thread-2
+2026-09-16 14:48:08.665 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:48:08.670 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:48:19.285 Thread-0Server Accepts Client Connection from: /127.0.0.1:61726
+2026-09-16 14:48:19.285 Thread-0Starting thread: Thread-3
+2026-09-16 14:48:45.436 Thread-0Server Accepts Client Connection from: /127.0.0.1:61750
+2026-09-16 14:48:45.437 Thread-0Starting thread: Thread-4
+2026-09-16 14:48:45.438 Thread-0Server Accepts Client Connection from: /127.0.0.1:61760
+2026-09-16 14:48:45.438 Thread-0Starting thread: Thread-5
+2026-09-16 14:48:45.439 Thread-3ERROR: Error at Thread:Thread-3 There is an issue with the routing logic.
+2026-09-16 14:48:45.440 Thread-3ERROR: Something is wrong with Thread: Thread-3 | Connection reset
+2026-09-16 14:48:46.120 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-16 14:48:46.122 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-16 14:48:46.129 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:48:46.267 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:48:49.382 Thread-0Server Accepts Client Connection from: /127.0.0.1:61771
+2026-09-16 14:48:49.383 Thread-0Starting thread: Thread-2
+2026-09-16 14:49:09.083 Thread-2ERROR: Error at Thread:Thread-2 There is an issue with the routing logic.
+2026-09-16 14:49:15.544 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Connection reset
+2026-09-16 14:51:24.407 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:51:24.409 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:51:24.409 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:51:24.533 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:51:27.856 Thread-0Server Accepts Client Connection from: /127.0.0.1:61948
+2026-09-16 14:51:27.858 Thread-0Starting thread: Thread-2
+2026-09-16 14:51:27.877 Thread-0Server Accepts Client Connection from: /127.0.0.1:61949
+2026-09-16 14:51:27.877 Thread-0Starting thread: Thread-3
+2026-09-16 14:52:01.350 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:52:01.351 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:52:01.351 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:52:01.469 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:52:10.680 Thread-0Server Accepts Client Connection from: /127.0.0.1:61993
+2026-09-16 14:52:10.682 Thread-0Starting thread: Thread-2
+2026-09-16 14:52:10.702 Thread-0Server Accepts Client Connection from: /127.0.0.1:61994
+2026-09-16 14:52:10.702 Thread-0Starting thread: Thread-3
+2026-09-16 14:53:43.702 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:53:43.704 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:53:43.704 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:53:43.823 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:53:45.069 Thread-0Server Accepts Client Connection from: /127.0.0.1:62100
+2026-09-16 14:53:45.070 Thread-0Starting thread: Thread-2
+2026-09-16 14:53:45.086 Thread-0Server Accepts Client Connection from: /127.0.0.1:62101
+2026-09-16 14:53:45.086 Thread-0Starting thread: Thread-3
+2026-09-16 14:57:09.141 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:57:09.143 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:57:09.143 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:57:09.275 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:57:12.335 Thread-0Server Accepts Client Connection from: /127.0.0.1:62310
+2026-09-16 14:57:12.336 Thread-0Starting thread: Thread-2
+2026-09-16 14:57:12.355 Thread-0Server Accepts Client Connection from: /127.0.0.1:62311
+2026-09-16 14:57:12.355 Thread-0Starting thread: Thread-3
+2026-09-16 14:57:57.791 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 14:57:57.792 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 14:57:57.793 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 14:57:57.915 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 14:57:59.470 Thread-0Server Accepts Client Connection from: /127.0.0.1:62356
+2026-09-16 14:57:59.471 Thread-0Starting thread: Thread-2
+2026-09-16 14:57:59.489 Thread-0Server Accepts Client Connection from: /127.0.0.1:62357
+2026-09-16 14:57:59.490 Thread-0Starting thread: Thread-3
+2026-09-16 15:00:21.157 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:00:21.159 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:00:21.159 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:00:21.279 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:00:22.810 Thread-0Server Accepts Client Connection from: /127.0.0.1:62554
+2026-09-16 15:00:22.812 Thread-0Starting thread: Thread-2
+2026-09-16 15:00:22.832 Thread-0Server Accepts Client Connection from: /127.0.0.1:62555
+2026-09-16 15:00:22.832 Thread-0Starting thread: Thread-3
+2026-09-16 15:00:55.576 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:00:55.577 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:00:55.577 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:00:55.701 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:00:57.704 Thread-0Server Accepts Client Connection from: /127.0.0.1:62608
+2026-09-16 15:00:57.706 Thread-0Starting thread: Thread-2
+2026-09-16 15:00:57.723 Thread-0Server Accepts Client Connection from: /127.0.0.1:62609
+2026-09-16 15:00:57.723 Thread-0Starting thread: Thread-3
+2026-09-16 15:02:30.083 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:02:30.085 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:02:30.086 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:02:30.205 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:02:31.253 Thread-0Server Accepts Client Connection from: /127.0.0.1:62712
+2026-09-16 15:02:31.254 Thread-0Starting thread: Thread-2
+2026-09-16 15:02:31.270 Thread-0Server Accepts Client Connection from: /127.0.0.1:62713
+2026-09-16 15:02:31.270 Thread-0Starting thread: Thread-3
+2026-09-16 15:05:11.362 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:05:11.364 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:05:11.364 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:05:11.487 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:05:13.543 Thread-0Server Accepts Client Connection from: /127.0.0.1:62888
+2026-09-16 15:05:13.545 Thread-0Starting thread: Thread-2
+2026-09-16 15:05:13.563 Thread-0Server Accepts Client Connection from: /127.0.0.1:62889
+2026-09-16 15:05:13.563 Thread-0Starting thread: Thread-3
+2026-09-16 15:05:57.151 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:05:57.153 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:05:57.153 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:05:57.279 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:05:59.402 Thread-0Server Accepts Client Connection from: /127.0.0.1:62939
+2026-09-16 15:05:59.405 Thread-0Starting thread: Thread-2
+2026-09-16 15:05:59.420 Thread-0Server Accepts Client Connection from: /127.0.0.1:62940
+2026-09-16 15:05:59.420 Thread-0Starting thread: Thread-3
+2026-09-16 15:07:02.694 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:07:02.695 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:07:02.695 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:07:02.822 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:07:04.070 Thread-0Server Accepts Client Connection from: /127.0.0.1:63011
+2026-09-16 15:07:04.072 Thread-0Starting thread: Thread-2
+2026-09-16 15:07:04.089 Thread-0Server Accepts Client Connection from: /127.0.0.1:63012
+2026-09-16 15:07:04.089 Thread-0Starting thread: Thread-3
+2026-09-16 15:14:03.212 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:14:03.214 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:14:03.215 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:14:03.331 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:14:05.521 Thread-0Server Accepts Client Connection from: /127.0.0.1:63457
+2026-09-16 15:14:05.522 Thread-0Starting thread: Thread-2
+2026-09-16 15:14:05.537 Thread-0Server Accepts Client Connection from: /127.0.0.1:63458
+2026-09-16 15:14:05.537 Thread-0Starting thread: Thread-3
+2026-09-16 15:17:37.590 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 15:17:37.591 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 15:17:37.592 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 15:17:37.696 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 15:17:38.993 Thread-0Server Accepts Client Connection from: /127.0.0.1:63693
+2026-09-16 15:17:38.993 Thread-0Starting thread: Thread-2
+2026-09-16 18:43:57.284 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:43:57.285 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:43:57.285 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:43:57.420 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:44:42.274 Thread-0Server Accepts Client Connection from: /127.0.0.1:60198
+2026-09-16 18:44:42.276 Thread-0Starting thread processReqThread: Thread-3
+2026-09-16 18:44:42.300 Thread-0Server Accepts Client Connection from: /127.0.0.1:60199
+2026-09-16 18:44:42.300 Thread-0Starting thread processReqThread: Thread-5
+2026-09-16 18:44:46.483 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:44:46.485 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:44:46.485 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:44:46.615 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:44:49.194 Thread-0Server Accepts Client Connection from: /127.0.0.1:60211
+2026-09-16 18:44:49.195 Thread-0Starting thread processReqThread: Thread-3
+2026-09-16 18:44:49.207 Thread-0Server Accepts Client Connection from: /127.0.0.1:60212
+2026-09-16 18:44:49.208 Thread-0Starting thread processReqThread: Thread-5
+2026-09-16 18:46:03.863 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:46:03.865 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:46:03.865 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:46:03.984 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:46:08.310 Thread-0Server Accepts Client Connection from: /127.0.0.1:60294
+2026-09-16 18:46:08.312 Thread-0Starting thread processReqThread: Thread-3
+2026-09-16 18:46:08.329 Thread-0Server Accepts Client Connection from: /127.0.0.1:60295
+2026-09-16 18:46:08.329 Thread-0Starting thread processReqThread: Thread-5
+2026-09-16 18:46:37.560 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:46:37.562 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:46:37.562 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:46:37.686 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:46:39.012 Thread-0Server Accepts Client Connection from: /127.0.0.1:60332
+2026-09-16 18:46:39.014 Thread-0Starting thread processReqThread: Thread-3
+2026-09-16 18:46:43.523 Thread-0Server Accepts Client Connection from: /127.0.0.1:60340
+2026-09-16 18:46:43.523 Thread-0Starting thread processReqThread: Thread-5
+2026-09-16 18:46:43.533 Thread-0Server Accepts Client Connection from: /127.0.0.1:60341
+2026-09-16 18:46:43.533 Thread-0Starting thread processReqThread: Thread-7
+2026-09-16 18:46:49.223 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:46:49.225 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:46:49.226 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:46:49.346 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:46:51.742 Thread-0Server Accepts Client Connection from: /127.0.0.1:60355
+2026-09-16 18:46:51.742 Thread-0Starting thread processReqThread: Thread-3
+2026-09-16 18:46:51.757 Thread-0Server Accepts Client Connection from: /127.0.0.1:60356
+2026-09-16 18:46:51.757 Thread-0Starting thread processReqThread: Thread-5
+2026-09-16 18:48:12.762 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:48:12.764 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:48:12.764 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:48:12.891 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:48:16.918 Thread-0Server Accepts Client Connection from: /127.0.0.1:60454
+2026-09-16 18:48:16.919 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 18:48:16.936 Thread-0Server Accepts Client Connection from: /127.0.0.1:60455
+2026-09-16 18:48:16.936 Thread-0Starting thread processReqThread: Thread-3
+2026-09-16 18:48:44.128 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:48:44.130 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:48:44.130 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:48:44.248 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:48:46.001 Thread-0Server Accepts Client Connection from: /127.0.0.1:60491
+2026-09-16 18:48:46.002 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 18:48:46.023 Thread-0Server Accepts Client Connection from: /127.0.0.1:60492
+2026-09-16 18:48:46.023 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 18:50:01.648 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:50:01.650 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:50:01.650 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:50:01.774 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:50:05.211 Thread-0Server Accepts Client Connection from: /127.0.0.1:60588
+2026-09-16 18:50:05.213 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 18:50:05.230 Thread-0Server Accepts Client Connection from: /127.0.0.1:60589
+2026-09-16 18:50:05.230 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 18:50:43.818 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:50:43.820 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:50:43.820 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:50:43.950 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:50:47.324 Thread-0Server Accepts Client Connection from: /127.0.0.1:60633
+2026-09-16 18:50:47.326 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 18:50:47.346 Thread-0Server Accepts Client Connection from: /127.0.0.1:60634
+2026-09-16 18:50:47.346 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 18:51:31.326 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:51:31.328 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:51:31.328 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:51:31.450 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:51:34.931 Thread-0Server Accepts Client Connection from: /127.0.0.1:60700
+2026-09-16 18:51:34.933 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 18:51:34.950 Thread-0Server Accepts Client Connection from: /127.0.0.1:60701
+2026-09-16 18:51:34.950 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 18:52:51.717 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 18:52:51.719 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 18:52:51.719 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 18:52:51.843 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 18:53:00.163 Thread-0Server Accepts Client Connection from: /127.0.0.1:60795
+2026-09-16 18:53:00.166 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 18:53:00.185 Thread-0Server Accepts Client Connection from: /127.0.0.1:60796
+2026-09-16 18:53:00.185 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 19:00:12.432 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 19:00:12.434 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 19:00:12.434 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 19:00:12.555 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 19:00:15.517 Thread-0Server Accepts Client Connection from: /127.0.0.1:61266
+2026-09-16 19:00:15.519 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 19:00:15.539 Thread-0Server Accepts Client Connection from: /127.0.0.1:61267
+2026-09-16 19:00:15.539 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 19:00:24.531 Thread-0Server Accepts Client Connection from: /127.0.0.1:61277
+2026-09-16 19:00:24.532 Thread-0Starting thread processReqThread: Thread-6
+2026-09-16 19:00:24.545 Thread-0Server Accepts Client Connection from: /127.0.0.1:61278
+2026-09-16 19:00:24.545 Thread-0Starting thread processReqThread: Thread-8
+2026-09-16 19:00:26.054 Thread-0Server Accepts Client Connection from: /127.0.0.1:61280
+2026-09-16 19:00:26.057 Thread-0Starting thread processReqThread: Thread-10
+2026-09-16 19:04:02.163 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 19:04:02.165 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 19:04:02.165 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 19:04:02.285 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 19:04:04.694 Thread-0Server Accepts Client Connection from: /127.0.0.1:61501
+2026-09-16 19:04:04.697 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 19:04:04.715 Thread-0Server Accepts Client Connection from: /127.0.0.1:61502
+2026-09-16 19:04:04.715 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 19:04:06.224 Thread-0Server Accepts Client Connection from: /127.0.0.1:61505
+2026-09-16 19:04:06.225 Thread-0Starting thread processReqThread: Thread-6
+2026-09-16 19:04:11.294 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-16 19:04:11.296 Thread-0http serverSocket is listening on port: 8080
+2026-09-16 19:04:11.296 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-16 19:04:11.416 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-16 19:04:14.950 Thread-0Server Accepts Client Connection from: /127.0.0.1:61518
+2026-09-16 19:04:14.952 Thread-0Starting thread processReqThread: Thread-2
+2026-09-16 19:04:14.970 Thread-0Server Accepts Client Connection from: /127.0.0.1:61519
+2026-09-16 19:04:14.970 Thread-0Starting thread processReqThread: Thread-4
+2026-09-16 19:04:18.174 Thread-0Server Accepts Client Connection from: /127.0.0.1:61527
+2026-09-16 19:04:18.174 Thread-0Starting thread processReqThread: Thread-6
+2026-09-16 19:04:29.065 Thread-0Server Accepts Client Connection from: /127.0.0.1:61541
+2026-09-16 19:04:29.066 Thread-0Starting thread processReqThread: Thread-8
+2026-09-16 19:04:29.080 Thread-0Server Accepts Client Connection from: /127.0.0.1:61542
+2026-09-16 19:04:29.080 Thread-0Starting thread processReqThread: Thread-10
+2026-09-16 19:04:30.590 Thread-0Server Accepts Client Connection from: /127.0.0.1:61545
+2026-09-16 19:04:30.591 Thread-0Starting thread processReqThread: Thread-12
+2026-09-17 09:58:48.355 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-17 09:58:48.357 Thread-0http serverSocket is listening on port: 80
+2026-09-17 09:58:48.357 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-17 09:58:48.490 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 09:58:56.910 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52462
+2026-09-17 09:58:56.913 Thread-1Starting thread processReqThread: Thread-2
+2026-09-17 09:58:56.914 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52463
+2026-09-17 09:58:56.915 Thread-1Starting thread processReqThread: Thread-4
+2026-09-17 09:58:56.922 Thread-2ERROR: Something is wrong with Thread: Thread-2 | Unsupported or unrecognized SSL message
+2026-09-17 09:58:57.950 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52464
+2026-09-17 09:58:57.951 Thread-4ERROR: Something is wrong with Thread: Thread-4 | Unsupported or unrecognized SSL message
+2026-09-17 09:58:57.951 Thread-1Starting thread processReqThread: Thread-6
+2026-09-17 09:59:02.970 Thread-6ERROR: Something is wrong with Thread: Thread-6 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:02.971 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52471
+2026-09-17 09:59:02.972 Thread-1Starting thread processReqThread: Thread-8
+2026-09-17 09:59:02.972 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52472
+2026-09-17 09:59:02.973 Thread-1Starting thread processReqThread: Thread-10
+2026-09-17 09:59:06.829 Thread-8ERROR: Something is wrong with Thread: Thread-8 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:06.831 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52475
+2026-09-17 09:59:06.831 Thread-1Starting thread processReqThread: Thread-12
+2026-09-17 09:59:07.859 Thread-10ERROR: Something is wrong with Thread: Thread-10 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:07.860 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52478
+2026-09-17 09:59:07.860 Thread-1Starting thread processReqThread: Thread-14
+2026-09-17 09:59:11.072 Thread-12ERROR: Something is wrong with Thread: Thread-12 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:12.098 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52481
+2026-09-17 09:59:12.098 Thread-14ERROR: Something is wrong with Thread: Thread-14 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:12.099 Thread-1Starting thread processReqThread: Thread-16
+2026-09-17 09:59:17.109 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52486
+2026-09-17 09:59:17.109 Thread-16ERROR: Something is wrong with Thread: Thread-16 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:17.109 Thread-1Starting thread processReqThread: Thread-18
+2026-09-17 09:59:47.122 Thread-18ERROR: Something is wrong with Thread: Thread-18 | Unsupported or unrecognized SSL message
+2026-09-17 09:59:47.125 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52525
+2026-09-17 09:59:47.125 Thread-1Starting thread processReqThread: Thread-20
+2026-09-17 09:59:47.125 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52526
+2026-09-17 09:59:47.125 Thread-1Starting thread processReqThread: Thread-22
+2026-09-17 10:00:47.145 Thread-20ERROR: Something is wrong with Thread: Thread-20 | Remote host terminated the handshake
+2026-09-17 10:00:47.145 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52583
+2026-09-17 10:00:47.145 Thread-22ERROR: Something is wrong with Thread: Thread-22 | Remote host terminated the handshake
+2026-09-17 10:00:47.145 Thread-1Starting thread processReqThread: Thread-24
+2026-09-17 10:00:47.146 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52584
+2026-09-17 10:00:47.146 Thread-24ERROR: Something is wrong with Thread: Thread-24 | Unsupported or unrecognized SSL message
+2026-09-17 10:00:47.147 Thread-1Starting thread processReqThread: Thread-26
+2026-09-17 10:01:49.406 Thread-26ERROR: Something is wrong with Thread: Thread-26 | Remote host terminated the handshake
+2026-09-17 10:03:01.966 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-17 10:03:01.967 Thread-0http serverSocket is listening on port: 80
+2026-09-17 10:03:01.967 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-17 10:03:02.091 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 10:03:06.815 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52732
+2026-09-17 10:03:06.816 Thread-1Starting thread processReqThread: Thread-2
+2026-09-17 10:03:06.817 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52733
+2026-09-17 10:03:06.817 Thread-1Starting thread processReqThread: Thread-4
+2026-09-17 10:03:07.850 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52736
+2026-09-17 10:03:07.850 Thread-1Starting thread processReqThread: Thread-6
+2026-09-17 10:03:12.858 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52742
+2026-09-17 10:03:12.859 Thread-1Starting thread processReqThread: Thread-8
+2026-09-17 10:03:42.840 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52769
+2026-09-17 10:03:42.840 Thread-1Starting thread processReqThread: Thread-10
+2026-09-17 10:04:11.733 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-17 10:04:11.734 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-17 10:04:11.734 Thread-0http serverSocket is listening on port: 80
+2026-09-17 10:04:11.856 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 10:04:13.708 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52800
+2026-09-17 10:04:13.711 Thread-1Starting thread processReqThread: Thread-2
+2026-09-17 10:04:13.712 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52801
+2026-09-17 10:04:13.712 Thread-1Starting thread processReqThread: Thread-4
+2026-09-17 10:04:14.744 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52803
+2026-09-17 10:04:14.744 Thread-1Starting thread processReqThread: Thread-6
+2026-09-17 10:04:19.756 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52808
+2026-09-17 10:04:19.756 Thread-1Starting thread processReqThread: Thread-8
+2026-09-17 10:04:49.770 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52836
+2026-09-17 10:04:49.770 Thread-1Starting thread processReqThread: Thread-10
+2026-09-17 10:05:49.789 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52893
+2026-09-17 10:05:49.789 Thread-1Starting thread processReqThread: Thread-12
+2026-09-17 10:05:49.790 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52894
+2026-09-17 10:05:49.790 Thread-1Starting thread processReqThread: Thread-14
+2026-09-17 10:06:12.509 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52913
+2026-09-17 10:06:12.510 Thread-1Starting thread processReqThread: Thread-16
+2026-09-17 10:06:12.510 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52914
+2026-09-17 10:06:12.510 Thread-1Starting thread processReqThread: Thread-18
+2026-09-17 10:06:13.535 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52918
+2026-09-17 10:06:13.536 Thread-1Starting thread processReqThread: Thread-20
+2026-09-17 10:06:17.046 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-17 10:06:17.048 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-17 10:06:17.055 Thread-0http serverSocket is listening on port: 80
+2026-09-17 10:06:17.195 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 10:06:18.549 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52930
+2026-09-17 10:06:18.550 Thread-1Starting thread processReqThread: Thread-2
+2026-09-17 10:06:18.551 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52931
+2026-09-17 10:06:18.551 Thread-1Starting thread processReqThread: Thread-4
+2026-09-17 10:06:20.801 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-17 10:06:20.802 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-17 10:06:20.803 Thread-0http serverSocket is listening on port: 80
+2026-09-17 10:06:20.926 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 10:06:23.373 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52940
+2026-09-17 10:06:23.375 Thread-1Starting thread processReqThread: Thread-2
+2026-09-17 10:06:23.376 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52941
+2026-09-17 10:06:23.376 Thread-1Starting thread processReqThread: Thread-4
+2026-09-17 10:06:24.409 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52942
+2026-09-17 10:06:24.410 Thread-1Starting thread processReqThread: Thread-6
+2026-09-17 10:06:29.421 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52947
+2026-09-17 10:06:29.421 Thread-1Starting thread processReqThread: Thread-8
+2026-09-17 10:06:29.421 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52948
+2026-09-17 10:06:29.421 Thread-1Starting thread processReqThread: Thread-10
+2026-09-17 10:06:55.619 Thread-0http serverSocket is listening on port: 80
+2026-09-17 10:06:55.604 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-17 10:06:55.622 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-17 10:07:14.357 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 10:07:22.204 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-17 10:07:22.206 Thread-0http serverSocket is listening on port: 80
+2026-09-17 10:07:22.206 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-17 10:07:22.300 Thread-1httpS serverSocket is listening on port: 443
+2026-09-17 10:07:25.009 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53042
+2026-09-17 10:07:25.012 Thread-1Starting thread processReqThread: Thread-2
+2026-09-17 10:07:25.014 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53043
+2026-09-17 10:07:25.015 Thread-1Starting thread processReqThread: Thread-4
+2026-09-17 10:07:26.045 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53046
+2026-09-17 10:07:26.045 Thread-1Starting thread processReqThread: Thread-6
+2026-09-17 10:07:26.046 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53047
+2026-09-17 10:07:26.046 Thread-1Starting thread processReqThread: Thread-8
+2026-09-17 10:08:01.072 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53082
+2026-09-17 10:08:01.072 Thread-1Starting thread processReqThread: Thread-10
+2026-09-17 10:08:04.049 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53085
+2026-09-17 10:08:04.049 Thread-1Starting thread processReqThread: Thread-12
+2026-09-17 10:08:04.049 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53086
+2026-09-17 10:08:04.050 Thread-1Starting thread processReqThread: Thread-14
+2026-09-17 10:08:04.143 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53087
+2026-09-17 10:08:04.143 Thread-1Starting thread processReqThread: Thread-16
+2026-09-17 10:18:46.284 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53869
+2026-09-17 10:18:46.292 Thread-1Starting thread processReqThread: Thread-18
+2026-09-17 10:18:46.308 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53870
+2026-09-17 10:18:46.308 Thread-1Starting thread processReqThread: Thread-20
+2026-09-18 07:18:03.397 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-18 07:18:03.398 Thread-0http serverSocket is listening on port: 8080
+2026-09-18 07:18:03.399 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-18 07:18:03.533 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-18 07:18:43.733 Thread-0Server Accepts Client Connection from: /127.0.0.1:57331
+2026-09-18 07:18:43.735 Thread-0Starting thread processReqThread: Thread-2
+2026-09-18 07:18:43.755 Thread-0Server Accepts Client Connection from: /127.0.0.1:57332
+2026-09-18 07:18:43.755 Thread-0Starting thread processReqThread: Thread-4
+2026-09-18 07:18:45.264 Thread-0Server Accepts Client Connection from: /127.0.0.1:57333
+2026-09-18 07:18:45.265 Thread-0Starting thread processReqThread: Thread-6
+2026-09-18 07:18:58.803 Thread-1Server Accepts Client Connection from: /127.0.0.1:57350
+2026-09-18 07:18:58.804 Thread-1Starting thread processReqThread: Thread-8
+2026-09-18 07:18:58.883 Thread-0Server Accepts Client Connection from: /127.0.0.1:57351
+2026-09-18 07:18:58.883 Thread-0Starting thread processReqThread: Thread-10
+2026-09-18 07:18:58.887 Thread-0Server Accepts Client Connection from: /127.0.0.1:57352
+2026-09-18 07:18:58.887 Thread-0Starting thread processReqThread: Thread-12
+2026-09-18 07:18:58.889 Thread-0Server Accepts Client Connection from: /127.0.0.1:57353
+2026-09-18 07:18:58.889 Thread-0Starting thread processReqThread: Thread-14
+2026-09-18 07:18:58.892 Thread-0Server Accepts Client Connection from: /127.0.0.1:57354
+2026-09-18 07:18:58.892 Thread-0Starting thread processReqThread: Thread-16
+2026-09-18 07:18:58.895 Thread-0Server Accepts Client Connection from: /127.0.0.1:57355
+2026-09-18 07:18:58.895 Thread-0Starting thread processReqThread: Thread-18
+2026-09-18 07:18:58.896 Thread-0Server Accepts Client Connection from: /127.0.0.1:57356
+2026-09-18 07:18:58.896 Thread-0Starting thread processReqThread: Thread-20
+2026-09-18 07:19:00.403 Thread-0Server Accepts Client Connection from: /127.0.0.1:57357
+2026-09-18 07:19:00.404 Thread-0Starting thread processReqThread: Thread-22
+2026-09-20 15:53:40.077 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 15:53:40.077 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 15:53:40.079 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 15:53:40.213 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 15:53:45.121 Thread-1Server Accepts Client Connection from: /127.0.0.1:62676
+2026-09-20 15:53:45.127 Thread-1Starting thread processReqThread: Thread-24
+2026-09-20 15:53:45.188 Thread-0Server Accepts Client Connection from: /127.0.0.1:62677
+2026-09-20 15:53:45.188 Thread-0Starting thread processReqThread: Thread-26
+2026-09-20 15:53:45.192 Thread-0Server Accepts Client Connection from: /127.0.0.1:62678
+2026-09-20 15:53:45.192 Thread-0Starting thread processReqThread: Thread-28
+2026-09-20 15:53:45.194 Thread-0Server Accepts Client Connection from: /127.0.0.1:62679
+2026-09-20 15:53:45.195 Thread-0Starting thread processReqThread: Thread-30
+2026-09-20 15:53:45.198 Thread-0Server Accepts Client Connection from: /127.0.0.1:62680
+2026-09-20 15:53:45.198 Thread-0Starting thread processReqThread: Thread-32
+2026-09-20 15:53:45.201 Thread-0Server Accepts Client Connection from: /127.0.0.1:62681
+2026-09-20 15:53:45.201 Thread-0Starting thread processReqThread: Thread-34
+2026-09-20 15:53:45.203 Thread-0Server Accepts Client Connection from: /127.0.0.1:62682
+2026-09-20 15:53:45.203 Thread-0Starting thread processReqThread: Thread-36
+2026-09-20 15:53:46.709 Thread-0Server Accepts Client Connection from: /127.0.0.1:62684
+2026-09-20 15:53:46.710 Thread-0Starting thread processReqThread: Thread-38
+2026-09-20 15:54:27.124 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 15:54:27.124 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 15:54:27.125 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 15:54:27.250 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 15:54:30.521 Thread-1Server Accepts Client Connection from: /127.0.0.1:62740
+2026-09-20 15:54:30.522 Thread-1Starting thread processReqThread: Thread-40
+2026-09-20 15:54:30.596 Thread-0Server Accepts Client Connection from: /127.0.0.1:62741
+2026-09-20 15:54:30.597 Thread-0Starting thread processReqThread: Thread-42
+2026-09-20 15:54:30.600 Thread-0Server Accepts Client Connection from: /127.0.0.1:62742
+2026-09-20 15:54:30.600 Thread-0Starting thread processReqThread: Thread-44
+2026-09-20 15:54:30.602 Thread-0Server Accepts Client Connection from: /127.0.0.1:62743
+2026-09-20 15:54:30.602 Thread-0Starting thread processReqThread: Thread-46
+2026-09-20 15:54:30.606 Thread-0Server Accepts Client Connection from: /127.0.0.1:62744
+2026-09-20 15:54:30.606 Thread-0Starting thread processReqThread: Thread-48
+2026-09-20 15:54:30.608 Thread-0Server Accepts Client Connection from: /127.0.0.1:62745
+2026-09-20 15:54:30.608 Thread-0Starting thread processReqThread: Thread-50
+2026-09-20 15:54:30.610 Thread-0Server Accepts Client Connection from: /127.0.0.1:62746
+2026-09-20 15:54:30.610 Thread-0Starting thread processReqThread: Thread-52
+2026-09-20 15:54:32.118 Thread-0Server Accepts Client Connection from: /127.0.0.1:62749
+2026-09-20 15:54:32.118 Thread-0Starting thread processReqThread: Thread-54
+2026-09-20 16:48:37.905 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 16:48:37.906 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:48:37.907 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 16:48:37.989 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:48:54.192 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 16:48:54.193 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:48:54.194 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 16:48:54.281 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:49:30.883 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:49:30.883 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 16:49:30.884 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 16:49:30.998 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:01.972 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:51:01.974 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:51:01.981 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:02.121 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:07.638 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:51:07.641 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:51:07.646 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:07.781 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:24.134 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:24.123 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:51:24.136 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:51:26.498 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:47.449 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:51:47.439 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:51:47.451 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:52:10.465 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:52:23.903 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:52:27.288 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:52:27.298 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:52:32.883 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:52:32.871 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:52:32.884 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:52:35.656 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:52:42.139 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:52:42.128 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:52:42.140 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:54:54.649 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:54:54.634 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 16:55:20.480 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 16:56:09.031 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 16:57:37.663 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 16:57:37.665 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 16:57:37.665 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 16:57:37.783 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 16:57:47.811 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 16:57:47.812 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 16:57:47.813 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 16:57:47.929 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 16:57:57.207 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 16:57:57.209 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 16:57:57.209 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 16:57:57.324 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 16:58:02.046 Thread-1Server Accepts Client Connection from: /127.0.0.1:50167
+2026-09-20 16:58:02.047 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 16:58:02.121 Thread-0Server Accepts Client Connection from: /127.0.0.1:50168
+2026-09-20 16:58:02.121 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 16:58:02.125 Thread-0Server Accepts Client Connection from: /127.0.0.1:50169
+2026-09-20 16:58:02.125 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 16:58:02.129 Thread-0Server Accepts Client Connection from: /127.0.0.1:50170
+2026-09-20 16:58:02.129 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 16:58:02.132 Thread-0Server Accepts Client Connection from: /127.0.0.1:50171
+2026-09-20 16:58:02.132 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 16:58:02.135 Thread-0Server Accepts Client Connection from: /127.0.0.1:50172
+2026-09-20 16:58:02.135 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 16:58:02.136 Thread-0Server Accepts Client Connection from: /127.0.0.1:50173
+2026-09-20 16:58:02.136 Thread-0Starting thread processReqThread: Thread-14
+2026-09-20 16:58:03.643 Thread-0Server Accepts Client Connection from: /127.0.0.1:50174
+2026-09-20 16:58:03.643 Thread-0Starting thread processReqThread: Thread-16
+2026-09-20 17:08:50.349 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:08:50.350 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:09:28.704 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:09:28.706 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:09:28.706 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:09:28.839 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:09:30.259 Thread-1Server Accepts Client Connection from: /127.0.0.1:51014
+2026-09-20 17:09:30.260 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:09:30.330 Thread-0Server Accepts Client Connection from: /127.0.0.1:51015
+2026-09-20 17:09:30.330 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:09:30.334 Thread-0Server Accepts Client Connection from: /127.0.0.1:51016
+2026-09-20 17:09:30.334 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:09:30.338 Thread-0Server Accepts Client Connection from: /127.0.0.1:51017
+2026-09-20 17:09:30.338 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:09:30.341 Thread-0Server Accepts Client Connection from: /127.0.0.1:51018
+2026-09-20 17:09:30.341 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 17:09:30.344 Thread-0Server Accepts Client Connection from: /127.0.0.1:51019
+2026-09-20 17:09:30.344 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 17:09:30.345 Thread-0Server Accepts Client Connection from: /127.0.0.1:51020
+2026-09-20 17:09:30.345 Thread-0Starting thread processReqThread: Thread-14
+2026-09-20 17:09:31.852 Thread-0Server Accepts Client Connection from: /127.0.0.1:51029
+2026-09-20 17:09:31.852 Thread-0Starting thread processReqThread: Thread-16
+2026-09-20 17:09:41.916 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:09:41.918 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:09:41.918 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:09:42.035 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:09:44.695 Thread-1Server Accepts Client Connection from: /127.0.0.1:51047
+2026-09-20 17:09:44.696 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:09:44.767 Thread-0Server Accepts Client Connection from: /127.0.0.1:51048
+2026-09-20 17:09:44.767 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:09:44.771 Thread-0Server Accepts Client Connection from: /127.0.0.1:51049
+2026-09-20 17:09:44.771 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:09:44.776 Thread-0Server Accepts Client Connection from: /127.0.0.1:51050
+2026-09-20 17:09:44.776 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:09:44.779 Thread-0Server Accepts Client Connection from: /127.0.0.1:51051
+2026-09-20 17:09:44.779 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 17:09:44.782 Thread-0Server Accepts Client Connection from: /127.0.0.1:51052
+2026-09-20 17:09:44.782 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 17:09:44.783 Thread-0Server Accepts Client Connection from: /127.0.0.1:51053
+2026-09-20 17:09:44.783 Thread-0Starting thread processReqThread: Thread-14
+2026-09-20 17:09:46.287 Thread-0Server Accepts Client Connection from: /127.0.0.1:51054
+2026-09-20 17:09:46.287 Thread-0Starting thread processReqThread: Thread-16
+2026-09-20 17:09:55.611 Thread-1Server Accepts Client Connection from: /127.0.0.1:51064
+2026-09-20 17:09:55.611 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 17:09:55.659 Thread-0Server Accepts Client Connection from: /127.0.0.1:51065
+2026-09-20 17:09:55.659 Thread-0Starting thread processReqThread: Thread-20
+2026-09-20 17:09:55.663 Thread-0Server Accepts Client Connection from: /127.0.0.1:51066
+2026-09-20 17:09:55.663 Thread-0Starting thread processReqThread: Thread-22
+2026-09-20 17:09:55.665 Thread-0Server Accepts Client Connection from: /127.0.0.1:51067
+2026-09-20 17:09:55.665 Thread-0Starting thread processReqThread: Thread-24
+2026-09-20 17:09:55.670 Thread-0Server Accepts Client Connection from: /127.0.0.1:51068
+2026-09-20 17:09:55.670 Thread-0Starting thread processReqThread: Thread-26
+2026-09-20 17:09:55.673 Thread-0Server Accepts Client Connection from: /127.0.0.1:51069
+2026-09-20 17:09:55.673 Thread-0Starting thread processReqThread: Thread-28
+2026-09-20 17:09:55.674 Thread-0Server Accepts Client Connection from: /127.0.0.1:51070
+2026-09-20 17:09:55.674 Thread-0Starting thread processReqThread: Thread-30
+2026-09-20 17:09:57.180 Thread-0Server Accepts Client Connection from: /127.0.0.1:51073
+2026-09-20 17:09:57.180 Thread-0Starting thread processReqThread: Thread-32
+2026-09-20 17:14:31.837 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:14:31.839 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:14:31.839 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:14:31.957 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:14:38.240 Thread-1Server Accepts Client Connection from: /127.0.0.1:51374
+2026-09-20 17:14:38.241 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:14:38.312 Thread-0Server Accepts Client Connection from: /127.0.0.1:51375
+2026-09-20 17:14:38.312 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:14:38.316 Thread-0Server Accepts Client Connection from: /127.0.0.1:51376
+2026-09-20 17:14:38.317 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:14:38.320 Thread-0Server Accepts Client Connection from: /127.0.0.1:51377
+2026-09-20 17:14:38.321 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:14:38.324 Thread-0Server Accepts Client Connection from: /127.0.0.1:51378
+2026-09-20 17:14:38.324 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 17:14:38.326 Thread-0Server Accepts Client Connection from: /127.0.0.1:51379
+2026-09-20 17:14:38.326 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 17:14:38.327 Thread-0Server Accepts Client Connection from: /127.0.0.1:51380
+2026-09-20 17:14:38.327 Thread-0Starting thread processReqThread: Thread-14
+2026-09-20 17:14:39.834 Thread-0Server Accepts Client Connection from: /127.0.0.1:51383
+2026-09-20 17:14:39.834 Thread-0Starting thread processReqThread: Thread-16
+2026-09-20 17:21:11.972 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:21:11.973 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:21:11.973 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:21:12.094 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:27:16.907 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:27:16.907 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 17:27:16.908 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:27:17.032 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:27:24.823 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:27:24.825 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:27:24.825 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:27:24.947 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:27:28.599 Thread-1Server Accepts Client Connection from: /127.0.0.1:52186
+2026-09-20 17:27:28.600 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:27:28.670 Thread-0Server Accepts Client Connection from: /127.0.0.1:52187
+2026-09-20 17:27:28.670 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:27:28.674 Thread-0Server Accepts Client Connection from: /127.0.0.1:52188
+2026-09-20 17:27:28.674 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:27:28.678 Thread-0Server Accepts Client Connection from: /127.0.0.1:52189
+2026-09-20 17:27:28.678 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:27:28.681 Thread-0Server Accepts Client Connection from: /127.0.0.1:52190
+2026-09-20 17:27:28.681 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 17:27:28.684 Thread-0Server Accepts Client Connection from: /127.0.0.1:52191
+2026-09-20 17:27:28.684 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 17:27:28.686 Thread-0Server Accepts Client Connection from: /127.0.0.1:52192
+2026-09-20 17:27:28.686 Thread-0Starting thread processReqThread: Thread-14
+2026-09-20 17:27:30.192 Thread-0Server Accepts Client Connection from: /127.0.0.1:52195
+2026-09-20 17:27:30.192 Thread-0Starting thread processReqThread: Thread-16
+2026-09-20 17:29:39.720 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 17:29:39.720 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:29:39.722 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:29:39.821 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:29:45.514 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:29:45.516 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:29:45.516 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:29:45.604 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:30:12.926 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52447
+2026-09-20 17:30:12.929 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:30:12.930 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52448
+2026-09-20 17:30:12.931 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:30:18.479 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52453
+2026-09-20 17:30:18.479 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:32:26.052 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:32:26.054 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:32:26.054 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:32:26.174 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:33:06.322 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:33:06.323 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:33:06.323 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:33:06.446 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:33:22.317 Thread-0Server Accepts Client Connection from: /127.0.0.1:52663
+2026-09-20 17:33:22.318 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:34:19.769 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:34:19.753 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 17:35:09.945 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 17:36:17.962 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:36:17.945 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 17:36:17.964 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 17:36:21.373 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:36:21.375 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:36:21.375 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:36:21.499 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:36:23.895 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:36:23.896 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:36:23.896 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:36:23.995 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:36:43.229 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:36:43.231 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:36:43.231 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:36:43.348 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:37:02.286 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52887
+2026-09-20 17:37:02.288 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:37:02.290 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52888
+2026-09-20 17:37:02.291 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:37:05.625 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52891
+2026-09-20 17:37:05.626 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:37:05.626 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52892
+2026-09-20 17:37:05.627 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 17:37:08.834 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52896
+2026-09-20 17:37:08.835 Thread-1Starting thread processReqThread: Thread-10
+2026-09-20 17:37:08.836 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52897
+2026-09-20 17:37:08.836 Thread-1Starting thread processReqThread: Thread-12
+2026-09-20 17:37:08.847 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52898
+2026-09-20 17:37:08.848 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 17:37:17.895 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52905
+2026-09-20 17:37:17.895 Thread-1Starting thread processReqThread: Thread-16
+2026-09-20 17:37:17.899 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52906
+2026-09-20 17:37:17.900 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 17:37:17.908 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52907
+2026-09-20 17:37:17.909 Thread-1Starting thread processReqThread: Thread-20
+2026-09-20 17:37:25.205 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52914
+2026-09-20 17:37:25.205 Thread-1Starting thread processReqThread: Thread-22
+2026-09-20 17:37:25.209 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52915
+2026-09-20 17:37:25.209 Thread-1Starting thread processReqThread: Thread-24
+2026-09-20 17:37:25.218 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:52916
+2026-09-20 17:37:25.219 Thread-1Starting thread processReqThread: Thread-26
+2026-09-20 17:39:58.843 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:39:58.845 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:39:58.845 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:39:58.977 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:39:59.069 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53091
+2026-09-20 17:39:59.069 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:39:59.070 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53092
+2026-09-20 17:39:59.070 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:39:59.141 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53093
+2026-09-20 17:39:59.142 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:40:03.044 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53099
+2026-09-20 17:40:03.045 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 17:40:03.047 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53100
+2026-09-20 17:40:03.049 Thread-1Starting thread processReqThread: Thread-10
+2026-09-20 17:40:03.059 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53101
+2026-09-20 17:40:03.059 Thread-1Starting thread processReqThread: Thread-12
+2026-09-20 17:40:04.402 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53102
+2026-09-20 17:40:04.403 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 17:40:04.404 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53103
+2026-09-20 17:40:04.405 Thread-1Starting thread processReqThread: Thread-16
+2026-09-20 17:40:04.417 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53104
+2026-09-20 17:40:04.417 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 17:40:49.101 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:40:49.102 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:40:49.103 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:40:49.221 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:40:49.543 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53156
+2026-09-20 17:40:49.543 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:40:49.544 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53157
+2026-09-20 17:40:49.544 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:40:49.583 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53158
+2026-09-20 17:40:49.584 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:41:07.737 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:41:07.739 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:41:07.739 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:41:07.858 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:41:12.195 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53183
+2026-09-20 17:41:12.196 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:41:12.197 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53184
+2026-09-20 17:41:12.198 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:41:12.257 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53185
+2026-09-20 17:41:12.257 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:41:20.822 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:41:20.824 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:41:20.824 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:41:20.946 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:41:29.029 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53201
+2026-09-20 17:41:29.029 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:41:29.030 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53202
+2026-09-20 17:41:29.030 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:41:29.078 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53203
+2026-09-20 17:41:29.078 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:41:39.107 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53220
+2026-09-20 17:41:39.108 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:41:39.109 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53221
+2026-09-20 17:41:39.109 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 17:41:46.357 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:41:46.358 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:41:46.359 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:41:46.480 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:41:49.070 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53246
+2026-09-20 17:41:49.072 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:41:49.073 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53247
+2026-09-20 17:41:49.073 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:42:05.419 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53265
+2026-09-20 17:42:05.419 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:42:05.419 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53266
+2026-09-20 17:42:05.420 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:42:16.056 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:42:16.058 Thread-0http serverSocket is listening on port: 80
+2026-09-20 17:42:34.444 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:42:34.442 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:42:35.846 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53344
+2026-09-20 17:42:35.848 Thread-0Starting thread processReqThread: Thread-1
+2026-09-20 17:42:35.850 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53345
+2026-09-20 17:42:35.850 Thread-0Starting thread processReqThread: Thread-3
+2026-09-20 17:42:42.961 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:42:42.963 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:42:42.963 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:42:43.087 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:42:45.369 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53361
+2026-09-20 17:42:45.370 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:42:45.371 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53362
+2026-09-20 17:42:45.372 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:42:49.198 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53365
+2026-09-20 17:42:49.198 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:42:49.198 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53366
+2026-09-20 17:42:49.198 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 17:42:50.245 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53369
+2026-09-20 17:42:50.245 Thread-1Starting thread processReqThread: Thread-10
+2026-09-20 17:42:50.254 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53370
+2026-09-20 17:42:50.254 Thread-1Starting thread processReqThread: Thread-12
+2026-09-20 17:42:55.264 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53373
+2026-09-20 17:42:55.265 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 17:43:02.801 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53384
+2026-09-20 17:43:02.802 Thread-1Starting thread processReqThread: Thread-16
+2026-09-20 17:43:02.803 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53385
+2026-09-20 17:43:02.803 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 17:43:02.871 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53386
+2026-09-20 17:43:02.872 Thread-1Starting thread processReqThread: Thread-20
+2026-09-20 17:43:26.793 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:43:26.795 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:43:26.795 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:43:26.925 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:43:35.564 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53433
+2026-09-20 17:43:35.567 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:43:35.568 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53434
+2026-09-20 17:43:35.569 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:43:35.631 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53435
+2026-09-20 17:43:35.631 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:43:43.203 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:43:43.205 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:43:43.205 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:43:43.303 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:43:44.032 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53445
+2026-09-20 17:43:44.033 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:43:44.034 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53446
+2026-09-20 17:43:44.034 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:43:44.092 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53447
+2026-09-20 17:43:44.092 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:44:03.414 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:44:03.416 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:44:03.416 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:44:03.505 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 17:44:07.910 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53473
+2026-09-20 17:44:07.910 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:44:07.911 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53474
+2026-09-20 17:44:07.911 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:44:07.959 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53475
+2026-09-20 17:44:07.959 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:44:21.621 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:44:21.624 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:44:21.624 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:44:21.724 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:44:28.826 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53492
+2026-09-20 17:44:28.828 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:44:28.829 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53493
+2026-09-20 17:44:28.829 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:44:28.899 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53496
+2026-09-20 17:44:28.900 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:45:48.686 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 17:45:48.685 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:45:48.687 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:45:48.780 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 17:45:53.266 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53581
+2026-09-20 17:45:53.267 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 17:45:53.275 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53582
+2026-09-20 17:45:53.275 Thread-1Starting thread processReqThread: Thread-10
+2026-09-20 17:45:57.412 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53585
+2026-09-20 17:45:57.413 Thread-1Starting thread processReqThread: Thread-12
+2026-09-20 17:45:57.429 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53586
+2026-09-20 17:45:57.429 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 17:46:07.774 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:46:07.776 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:46:07.776 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:46:07.900 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:46:10.825 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53611
+2026-09-20 17:46:10.827 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:46:10.828 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53612
+2026-09-20 17:46:10.829 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:46:10.899 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53615
+2026-09-20 17:46:10.899 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:46:16.975 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53631
+2026-09-20 17:46:16.975 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 17:46:17.492 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53632
+2026-09-20 17:46:17.492 Thread-1Starting thread processReqThread: Thread-10
+2026-09-20 17:46:17.493 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53633
+2026-09-20 17:46:17.493 Thread-1Starting thread processReqThread: Thread-12
+2026-09-20 17:46:17.510 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53634
+2026-09-20 17:46:17.510 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 17:46:25.432 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53639
+2026-09-20 17:46:25.433 Thread-1Starting thread processReqThread: Thread-16
+2026-09-20 17:46:36.368 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53651
+2026-09-20 17:46:36.368 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 17:46:36.371 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53652
+2026-09-20 17:46:36.371 Thread-0Starting thread processReqThread: Thread-20
+2026-09-20 17:46:36.372 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53653
+2026-09-20 17:46:36.373 Thread-0Starting thread processReqThread: Thread-22
+2026-09-20 17:46:36.376 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53654
+2026-09-20 17:46:36.377 Thread-1Starting thread processReqThread: Thread-24
+2026-09-20 17:47:03.869 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:47:03.871 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:47:03.871 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:47:03.991 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:47:05.261 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53705
+2026-09-20 17:47:05.263 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:47:05.263 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53706
+2026-09-20 17:47:05.263 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:47:10.043 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53710
+2026-09-20 17:47:10.044 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:47:13.667 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 17:47:13.666 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:47:13.668 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:47:13.777 Thread-1ERROR: IOException: Server Socket|Address already in use
+2026-09-20 17:47:20.923 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:47:20.925 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:47:20.925 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:47:21.046 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:47:22.120 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53739
+2026-09-20 17:47:22.123 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:47:22.124 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53740
+2026-09-20 17:47:22.124 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:47:31.665 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:47:31.666 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:47:31.667 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:47:31.789 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:47:33.489 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53765
+2026-09-20 17:47:33.491 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:47:33.493 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53766
+2026-09-20 17:47:33.493 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:47:38.877 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53771
+2026-09-20 17:47:38.878 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:47:38.878 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53772
+2026-09-20 17:47:38.879 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:47:46.584 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:47:46.586 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:47:46.586 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:47:46.702 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:47:55.344 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53821
+2026-09-20 17:47:55.347 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:47:55.348 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53822
+2026-09-20 17:47:55.348 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:49:20.521 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:49:20.523 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:49:20.524 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:49:20.629 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:49:32.986 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53973
+2026-09-20 17:49:32.988 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:49:32.989 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53974
+2026-09-20 17:49:32.990 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:50:17.352 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:50:17.354 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:50:17.354 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:50:17.453 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:50:20.833 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54036
+2026-09-20 17:50:20.835 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:50:20.836 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54037
+2026-09-20 17:50:20.836 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:50:52.054 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:50:52.056 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:50:52.056 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:50:52.142 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:50:55.316 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54071
+2026-09-20 17:50:55.319 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 17:50:55.321 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54072
+2026-09-20 17:50:55.321 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 17:52:39.200 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54201
+2026-09-20 17:52:39.201 Thread-0Starting thread processReqThread: Thread-6
+2026-09-20 17:53:10.559 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:53:10.561 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:53:10.561 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:53:10.681 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:53:13.893 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54289
+2026-09-20 17:53:13.895 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:53:13.896 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54290
+2026-09-20 17:53:13.897 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:53:13.969 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54291
+2026-09-20 17:53:13.970 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:53:23.930 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54300
+2026-09-20 17:53:23.931 Thread-0Starting thread processReqThread: Thread-8
+2026-09-20 17:53:23.931 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54301
+2026-09-20 17:53:23.932 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 17:53:37.074 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54320
+2026-09-20 17:53:37.074 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 17:53:37.075 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54321
+2026-09-20 17:53:37.075 Thread-0Starting thread processReqThread: Thread-14
+2026-09-20 17:54:17.486 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54387
+2026-09-20 17:54:17.486 Thread-1Starting thread processReqThread: Thread-16
+2026-09-20 17:54:19.231 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54388
+2026-09-20 17:54:19.232 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 17:54:19.253 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54389
+2026-09-20 17:54:19.253 Thread-1Starting thread processReqThread: Thread-20
+2026-09-20 17:56:34.911 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:56:34.913 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:56:34.913 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:56:35.041 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:56:36.891 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54528
+2026-09-20 17:56:36.894 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 17:56:36.895 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54529
+2026-09-20 17:56:36.895 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 17:56:36.961 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54530
+2026-09-20 17:56:36.961 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 17:56:38.284 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54533
+2026-09-20 17:56:38.284 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 17:56:38.298 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54534
+2026-09-20 17:56:38.299 Thread-1Starting thread processReqThread: Thread-10
+2026-09-20 17:56:40.766 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54536
+2026-09-20 17:56:40.767 Thread-1Starting thread processReqThread: Thread-12
+2026-09-20 17:56:40.776 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54537
+2026-09-20 17:56:40.776 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 17:56:54.364 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54564
+2026-09-20 17:56:54.364 Thread-0Starting thread processReqThread: Thread-16
+2026-09-20 17:56:54.364 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54565
+2026-09-20 17:56:54.366 Thread-0Starting thread processReqThread: Thread-18
+2026-09-20 17:57:09.956 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54585
+2026-09-20 17:57:09.956 Thread-1Starting thread processReqThread: Thread-20
+2026-09-20 17:57:09.962 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:54586
+2026-09-20 17:57:09.963 Thread-1Starting thread processReqThread: Thread-22
+2026-09-20 17:59:00.325 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 17:59:00.327 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 17:59:00.327 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 17:59:00.420 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 17:59:17.714 Thread-0Server Accepts Client Connection from: /127.0.0.1:54716
+2026-09-20 17:59:17.716 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 18:00:30.914 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 18:00:30.916 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 18:00:30.916 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 18:00:31.013 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 18:01:08.089 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 18:01:08.078 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 18:12:28.689 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 18:12:31.471 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 18:12:31.473 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 18:12:31.473 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 18:12:31.591 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 18:12:48.804 Thread-0Server Accepts Client Connection from: /127.0.0.1:55580
+2026-09-20 18:12:48.806 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 18:13:31.182 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55622
+2026-09-20 18:13:31.183 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 18:13:31.184 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55623
+2026-09-20 18:13:31.184 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 18:13:31.252 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55624
+2026-09-20 18:13:31.252 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 18:13:53.445 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55657
+2026-09-20 18:13:53.445 Thread-0Starting thread processReqThread: Thread-10
+2026-09-20 18:13:53.446 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55658
+2026-09-20 18:13:53.447 Thread-0Starting thread processReqThread: Thread-12
+2026-09-20 18:14:05.355 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55672
+2026-09-20 18:14:05.356 Thread-1Starting thread processReqThread: Thread-14
+2026-09-20 18:14:05.367 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55673
+2026-09-20 18:14:05.367 Thread-1Starting thread processReqThread: Thread-16
+2026-09-20 18:14:14.252 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55681
+2026-09-20 18:14:14.252 Thread-1Starting thread processReqThread: Thread-18
+2026-09-20 18:14:14.261 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55682
+2026-09-20 18:14:14.262 Thread-1Starting thread processReqThread: Thread-20
+2026-09-20 18:14:51.893 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55710
+2026-09-20 18:14:51.894 Thread-0Starting thread processReqThread: Thread-22
+2026-09-20 18:14:55.465 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:55714
+2026-09-20 18:14:55.465 Thread-0Starting thread processReqThread: Thread-24
+2026-09-20 18:24:56.646 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 18:24:56.647 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 18:24:56.647 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 18:24:56.768 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 18:25:27.972 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 18:25:27.974 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 18:25:27.974 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 18:25:28.088 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:07:10.263 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:07:10.265 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:07:10.265 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:07:10.413 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:07:21.581 Thread-0Server Accepts Client Connection from: /127.0.0.1:62467
+2026-09-20 20:07:21.582 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 20:10:51.883 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:10:51.884 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 20:10:51.885 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:10:52.010 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:10:59.143 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:10:59.145 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:10:59.145 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:10:59.267 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:11:09.373 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62726
+2026-09-20 20:11:09.375 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 20:11:19.929 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62735
+2026-09-20 20:11:19.929 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 20:11:19.929 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62736
+2026-09-20 20:11:19.930 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 20:11:19.946 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62737
+2026-09-20 20:11:19.946 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 20:12:11.290 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:12:11.292 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:12:11.292 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:12:11.412 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:12:29.378 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62818
+2026-09-20 20:12:29.381 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 20:12:42.930 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62830
+2026-09-20 20:12:42.930 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 20:12:42.931 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62831
+2026-09-20 20:12:42.931 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 20:12:42.998 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62832
+2026-09-20 20:12:42.999 Thread-1Starting thread processReqThread: Thread-8
+2026-09-20 20:20:54.768 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:20:54.770 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:20:54.770 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:20:54.888 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:21:08.607 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:21:08.608 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 20:21:08.609 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:21:08.733 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:21:16.183 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:21:16.185 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:21:16.185 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:21:16.305 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:21:25.353 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63341
+2026-09-20 20:21:25.356 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 20:21:25.357 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63342
+2026-09-20 20:21:25.358 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 20:21:25.425 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63343
+2026-09-20 20:21:25.425 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 20:23:08.588 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:23:08.589 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:23:08.589 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:23:08.682 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:23:10.767 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63467
+2026-09-20 20:23:10.769 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 20:23:10.774 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63468
+2026-09-20 20:23:10.775 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 20:23:10.855 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63471
+2026-09-20 20:23:10.855 Thread-1Starting thread processReqThread: Thread-6
+2026-09-20 20:29:49.917 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:29:49.919 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:29:49.919 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:29:50.033 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:29:55.695 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63851
+2026-09-20 20:29:55.698 Thread-1Starting thread processReqThread: Thread-2
+2026-09-20 20:29:55.699 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:63852
+2026-09-20 20:29:55.700 Thread-1Starting thread processReqThread: Thread-4
+2026-09-20 20:31:20.759 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:31:20.761 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:31:20.761 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:31:20.866 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:35:54.945 Thread-0Server Accepts Client Connection from: /127.0.0.1:64194
+2026-09-20 20:35:54.948 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 20:36:08.878 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:36:08.879 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 20:36:08.880 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:36:09.001 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:36:14.279 main  http Server started on Thread:Thread[#26,Thread-0,5,main]
+2026-09-20 20:36:14.283 main  httpS Server started on Thread:Thread[#27,Thread-1,5,main]
+2026-09-20 20:36:14.293 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:36:17.373 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:36:17.375 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:36:17.375 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:36:17.489 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:36:19.916 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:36:19.917 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 20:36:19.918 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:36:20.050 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:36:32.551 Thread-0Server Accepts Client Connection from: /127.0.0.1:64249
+2026-09-20 20:36:32.552 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 20:36:49.155 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:36:49.157 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:36:49.157 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:36:49.282 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:36:54.395 Thread-0Server Accepts Client Connection from: /127.0.0.1:64275
+2026-09-20 20:36:54.397 Thread-0Starting thread processReqThread: Thread-2
+2026-09-20 20:37:16.558 Thread-0Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:64297
+2026-09-20 20:37:16.559 Thread-0Starting thread processReqThread: Thread-4
+2026-09-20 20:38:08.510 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:38:08.511 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 20:38:08.512 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:38:08.632 Thread-1httpS serverSocket is listening on port: 443
+2026-09-20 20:56:53.938 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:56:53.940 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:56:53.940 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:56:54.035 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:57:50.582 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:57:50.584 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:57:50.584 Thread-0http serverSocket is listening on port: 8080
+2026-09-20 20:57:50.702 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-20 20:58:00.453 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-20 20:58:00.454 Thread-0ERROR: IOException: Server Socket|Address already in use
+2026-09-20 20:58:00.455 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-20 20:58:00.579 Thread-1httpS serverSocket is listening on port: 443
+2026-09-21 09:53:05.861 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 09:53:05.863 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 09:53:05.863 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 09:53:06.003 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 09:53:10.181 Thread-1Server Accepts Client Connection from: /127.0.0.1:49419
+2026-09-21 09:53:10.181 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 09:53:10.255 Thread-0Server Accepts Client Connection from: /127.0.0.1:49420
+2026-09-21 09:53:10.255 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 09:53:10.260 Thread-0Server Accepts Client Connection from: /127.0.0.1:49421
+2026-09-21 09:53:10.260 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 09:53:10.264 Thread-0Server Accepts Client Connection from: /127.0.0.1:49422
+2026-09-21 09:53:10.264 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 09:53:10.267 Thread-0Server Accepts Client Connection from: /127.0.0.1:49423
+2026-09-21 09:53:10.267 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 09:53:10.270 Thread-0Server Accepts Client Connection from: /127.0.0.1:49424
+2026-09-21 09:53:10.270 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 09:53:10.272 Thread-0Server Accepts Client Connection from: /127.0.0.1:49425
+2026-09-21 09:53:10.272 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 09:53:11.779 Thread-0Server Accepts Client Connection from: /127.0.0.1:49426
+2026-09-21 09:53:11.780 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 09:53:18.468 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 09:53:18.470 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 09:53:18.470 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 09:53:18.590 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 09:53:21.474 Thread-1Server Accepts Client Connection from: /127.0.0.1:49444
+2026-09-21 09:53:21.475 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 09:53:21.544 Thread-0Server Accepts Client Connection from: /127.0.0.1:49445
+2026-09-21 09:53:21.545 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 09:53:21.548 Thread-0Server Accepts Client Connection from: /127.0.0.1:49446
+2026-09-21 09:53:21.548 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 09:53:21.552 Thread-0Server Accepts Client Connection from: /127.0.0.1:49447
+2026-09-21 09:53:21.552 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 09:53:21.555 Thread-0Server Accepts Client Connection from: /127.0.0.1:49448
+2026-09-21 09:53:21.555 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 09:53:21.558 Thread-0Server Accepts Client Connection from: /127.0.0.1:49449
+2026-09-21 09:53:21.558 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 09:53:21.560 Thread-0Server Accepts Client Connection from: /127.0.0.1:49450
+2026-09-21 09:53:21.560 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 09:53:23.065 Thread-0Server Accepts Client Connection from: /127.0.0.1:49454
+2026-09-21 09:53:23.065 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 10:06:18.344 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 10:06:18.346 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 10:06:18.346 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 10:06:18.475 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 10:06:28.571 Thread-1Server Accepts Client Connection from: /127.0.0.1:50435
+2026-09-21 10:06:28.572 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 10:06:28.649 Thread-0Server Accepts Client Connection from: /127.0.0.1:50436
+2026-09-21 10:06:28.649 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 10:06:28.653 Thread-0Server Accepts Client Connection from: /127.0.0.1:50437
+2026-09-21 10:06:28.653 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 10:06:28.657 Thread-0Server Accepts Client Connection from: /127.0.0.1:50438
+2026-09-21 10:06:28.657 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 10:06:28.661 Thread-0Server Accepts Client Connection from: /127.0.0.1:50439
+2026-09-21 10:06:28.661 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 10:06:28.665 Thread-0Server Accepts Client Connection from: /127.0.0.1:50440
+2026-09-21 10:06:28.665 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 10:06:28.666 Thread-0Server Accepts Client Connection from: /127.0.0.1:50441
+2026-09-21 10:06:28.666 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 10:06:30.174 Thread-0Server Accepts Client Connection from: /127.0.0.1:50442
+2026-09-21 10:06:30.175 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 11:20:39.461 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 11:20:39.462 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 11:20:39.462 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 11:20:39.620 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 11:20:42.651 Thread-1Server Accepts Client Connection from: /127.0.0.1:54383
+2026-09-21 11:20:42.652 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 11:20:42.728 Thread-0Server Accepts Client Connection from: /127.0.0.1:54384
+2026-09-21 11:20:42.728 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 11:20:42.732 Thread-0Server Accepts Client Connection from: /127.0.0.1:54385
+2026-09-21 11:20:42.732 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 11:20:42.735 Thread-0Server Accepts Client Connection from: /127.0.0.1:54386
+2026-09-21 11:20:42.735 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 11:20:42.738 Thread-0Server Accepts Client Connection from: /127.0.0.1:54387
+2026-09-21 11:20:42.738 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 11:20:42.740 Thread-0Server Accepts Client Connection from: /127.0.0.1:54388
+2026-09-21 11:20:42.741 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 11:20:42.742 Thread-0Server Accepts Client Connection from: /127.0.0.1:54389
+2026-09-21 11:20:42.742 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 11:20:44.247 Thread-0Server Accepts Client Connection from: /127.0.0.1:54390
+2026-09-21 11:20:44.247 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 11:25:41.977 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 11:25:41.978 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 11:25:41.978 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 11:25:42.096 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 11:25:45.402 Thread-1Server Accepts Client Connection from: /127.0.0.1:54711
+2026-09-21 11:25:45.403 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 11:25:45.475 Thread-0Server Accepts Client Connection from: /127.0.0.1:54712
+2026-09-21 11:25:45.475 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 11:25:45.479 Thread-0Server Accepts Client Connection from: /127.0.0.1:54713
+2026-09-21 11:25:45.479 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 11:25:45.482 Thread-0Server Accepts Client Connection from: /127.0.0.1:54714
+2026-09-21 11:25:45.482 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 11:25:45.485 Thread-0Server Accepts Client Connection from: /127.0.0.1:54715
+2026-09-21 11:25:45.485 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 11:25:45.488 Thread-0Server Accepts Client Connection from: /127.0.0.1:54716
+2026-09-21 11:25:45.488 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 11:25:45.489 Thread-0Server Accepts Client Connection from: /127.0.0.1:54717
+2026-09-21 11:25:45.489 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 11:25:46.994 Thread-0Server Accepts Client Connection from: /127.0.0.1:54720
+2026-09-21 11:25:46.994 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 11:43:24.788 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 11:43:24.790 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 11:43:24.790 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 11:43:24.906 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 11:43:29.391 Thread-1Server Accepts Client Connection from: /127.0.0.1:55620
+2026-09-21 11:43:29.392 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 11:43:29.461 Thread-0Server Accepts Client Connection from: /127.0.0.1:55621
+2026-09-21 11:43:29.461 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 11:43:29.465 Thread-0Server Accepts Client Connection from: /127.0.0.1:55622
+2026-09-21 11:43:29.465 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 11:43:29.469 Thread-0Server Accepts Client Connection from: /127.0.0.1:55623
+2026-09-21 11:43:29.470 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 11:43:29.473 Thread-0Server Accepts Client Connection from: /127.0.0.1:55624
+2026-09-21 11:43:29.473 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 11:43:29.476 Thread-0Server Accepts Client Connection from: /127.0.0.1:55625
+2026-09-21 11:43:29.476 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 11:43:29.477 Thread-0Server Accepts Client Connection from: /127.0.0.1:55626
+2026-09-21 11:43:29.478 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 11:43:30.984 Thread-0Server Accepts Client Connection from: /127.0.0.1:55630
+2026-09-21 11:43:30.984 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 11:52:48.216 main  http Server started on Thread:Thread[#21,Thread-0,5,main]
+2026-09-21 11:52:48.218 main  httpS Server started on Thread:Thread[#22,Thread-1,5,main]
+2026-09-21 11:52:48.218 Thread-0http serverSocket is listening on port: 8080
+2026-09-21 11:52:48.347 Thread-1httpS serverSocket is listening on port: 8443
+2026-09-21 11:52:51.340 Thread-1Server Accepts Client Connection from: /127.0.0.1:56933
+2026-09-21 11:52:51.341 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 11:52:51.418 Thread-0Server Accepts Client Connection from: /127.0.0.1:56934
+2026-09-21 11:52:51.418 Thread-0Starting thread processReqThread: Thread-4
+2026-09-21 11:52:51.422 Thread-0Server Accepts Client Connection from: /127.0.0.1:56935
+2026-09-21 11:52:51.422 Thread-0Starting thread processReqThread: Thread-6
+2026-09-21 11:52:51.427 Thread-0Server Accepts Client Connection from: /127.0.0.1:56936
+2026-09-21 11:52:51.428 Thread-0Starting thread processReqThread: Thread-8
+2026-09-21 11:52:51.431 Thread-0Server Accepts Client Connection from: /127.0.0.1:56937
+2026-09-21 11:52:51.432 Thread-0Starting thread processReqThread: Thread-10
+2026-09-21 11:52:51.435 Thread-0Server Accepts Client Connection from: /127.0.0.1:56938
+2026-09-21 11:52:51.436 Thread-0Starting thread processReqThread: Thread-12
+2026-09-21 11:52:51.439 Thread-0Server Accepts Client Connection from: /127.0.0.1:56939
+2026-09-21 11:52:51.439 Thread-0Starting thread processReqThread: Thread-14
+2026-09-21 11:52:52.947 Thread-0Server Accepts Client Connection from: /127.0.0.1:56942
+2026-09-21 11:52:52.947 Thread-0Starting thread processReqThread: Thread-16
+2026-09-21 11:52:58.848 Thread-1Server Accepts Client Connection from: /127.0.0.1:56971
+2026-09-21 11:52:58.849 Thread-1Starting thread processReqThread: Thread-18
+2026-09-21 11:52:58.896 Thread-0Server Accepts Client Connection from: /127.0.0.1:56972
+2026-09-21 11:52:58.896 Thread-0Starting thread processReqThread: Thread-20
+2026-09-21 11:52:58.900 Thread-0Server Accepts Client Connection from: /127.0.0.1:56973
+2026-09-21 11:52:58.900 Thread-0Starting thread processReqThread: Thread-22
+2026-09-21 11:52:58.902 Thread-0Server Accepts Client Connection from: /127.0.0.1:56974
+2026-09-21 11:52:58.902 Thread-0Starting thread processReqThread: Thread-24
+2026-09-21 11:52:58.905 Thread-0Server Accepts Client Connection from: /127.0.0.1:56975
+2026-09-21 11:52:58.905 Thread-0Starting thread processReqThread: Thread-26
+2026-09-21 11:52:58.908 Thread-0Server Accepts Client Connection from: /127.0.0.1:56976
+2026-09-21 11:52:58.908 Thread-0Starting thread processReqThread: Thread-28
+2026-09-21 11:52:58.910 Thread-0Server Accepts Client Connection from: /127.0.0.1:56977
+2026-09-21 11:52:58.910 Thread-0Starting thread processReqThread: Thread-30
+2026-09-21 11:53:00.417 Thread-0Server Accepts Client Connection from: /127.0.0.1:56978
+2026-09-21 11:53:00.418 Thread-0Starting thread processReqThread: Thread-32
+2026-09-21 11:53:01.632 Thread-1Server Accepts Client Connection from: /127.0.0.1:56984
+2026-09-21 11:53:01.632 Thread-1Starting thread processReqThread: Thread-34
+2026-09-21 11:53:01.679 Thread-0Server Accepts Client Connection from: /127.0.0.1:56985
+2026-09-21 11:53:01.679 Thread-0Starting thread processReqThread: Thread-36
+2026-09-21 11:53:01.683 Thread-0Server Accepts Client Connection from: /127.0.0.1:56986
+2026-09-21 11:53:01.683 Thread-0Starting thread processReqThread: Thread-38
+2026-09-21 11:53:01.685 Thread-0Server Accepts Client Connection from: /127.0.0.1:56987
+2026-09-21 11:53:01.685 Thread-0Starting thread processReqThread: Thread-40
+2026-09-21 11:53:01.688 Thread-0Server Accepts Client Connection from: /127.0.0.1:56988
+2026-09-21 11:53:01.688 Thread-0Starting thread processReqThread: Thread-42
+2026-09-21 11:53:01.691 Thread-0Server Accepts Client Connection from: /127.0.0.1:56989
+2026-09-21 11:53:01.691 Thread-0Starting thread processReqThread: Thread-44
+2026-09-21 11:53:01.692 Thread-0Server Accepts Client Connection from: /127.0.0.1:56990
+2026-09-21 11:53:01.692 Thread-0Starting thread processReqThread: Thread-46
+2026-09-21 11:53:03.197 Thread-0Server Accepts Client Connection from: /127.0.0.1:56991
+2026-09-21 11:53:03.198 Thread-0Starting thread processReqThread: Thread-48
+2026-09-21 11:53:04.634 Thread-1Server Accepts Client Connection from: /127.0.0.1:56997
+2026-09-21 11:53:04.634 Thread-1Starting thread processReqThread: Thread-50
+2026-09-21 11:53:04.680 Thread-0Server Accepts Client Connection from: /127.0.0.1:56998
+2026-09-21 11:53:04.680 Thread-0Starting thread processReqThread: Thread-52
+2026-09-21 11:53:04.684 Thread-0Server Accepts Client Connection from: /127.0.0.1:57001
+2026-09-21 11:53:04.684 Thread-0Starting thread processReqThread: Thread-54
+2026-09-21 11:53:04.686 Thread-0Server Accepts Client Connection from: /127.0.0.1:57002
+2026-09-21 11:53:04.686 Thread-0Starting thread processReqThread: Thread-56
+2026-09-21 11:53:04.690 Thread-0Server Accepts Client Connection from: /127.0.0.1:57004
+2026-09-21 11:53:04.690 Thread-0Starting thread processReqThread: Thread-58
+2026-09-21 11:53:04.693 Thread-0Server Accepts Client Connection from: /127.0.0.1:57005
+2026-09-21 11:53:04.693 Thread-0Starting thread processReqThread: Thread-60
+2026-09-21 11:53:04.694 Thread-0Server Accepts Client Connection from: /127.0.0.1:57006
+2026-09-21 11:53:04.694 Thread-0Starting thread processReqThread: Thread-62
+2026-09-21 11:53:06.201 Thread-0Server Accepts Client Connection from: /127.0.0.1:57007
+2026-09-21 11:53:06.202 Thread-0Starting thread processReqThread: Thread-64
+2026-09-21 11:53:07.227 Thread-1Server Accepts Client Connection from: /127.0.0.1:57012
+2026-09-21 11:53:07.227 Thread-1Starting thread processReqThread: Thread-66
+2026-09-21 11:53:07.276 Thread-0Server Accepts Client Connection from: /127.0.0.1:57014
+2026-09-21 11:53:07.276 Thread-0Starting thread processReqThread: Thread-68
+2026-09-21 11:53:07.281 Thread-0Server Accepts Client Connection from: /127.0.0.1:57015
+2026-09-21 11:53:07.281 Thread-0Starting thread processReqThread: Thread-70
+2026-09-21 11:53:07.283 Thread-0Server Accepts Client Connection from: /127.0.0.1:57016
+2026-09-21 11:53:07.283 Thread-0Starting thread processReqThread: Thread-72
+2026-09-21 11:53:07.287 Thread-0Server Accepts Client Connection from: /127.0.0.1:57017
+2026-09-21 11:53:07.287 Thread-0Starting thread processReqThread: Thread-74
+2026-09-21 11:53:07.290 Thread-0Server Accepts Client Connection from: /127.0.0.1:57018
+2026-09-21 11:53:07.290 Thread-0Starting thread processReqThread: Thread-76
+2026-09-21 11:53:07.292 Thread-0Server Accepts Client Connection from: /127.0.0.1:57019
+2026-09-21 11:53:07.292 Thread-0Starting thread processReqThread: Thread-78
+2026-09-21 11:53:08.797 Thread-0Server Accepts Client Connection from: /127.0.0.1:57020
+2026-09-21 11:53:08.798 Thread-0Starting thread processReqThread: Thread-80
+2026-09-21 11:53:10.030 Thread-1Server Accepts Client Connection from: /127.0.0.1:57026
+2026-09-21 11:53:10.030 Thread-1Starting thread processReqThread: Thread-82
+2026-09-21 11:53:10.081 Thread-0Server Accepts Client Connection from: /127.0.0.1:57027
+2026-09-21 11:53:10.081 Thread-0Starting thread processReqThread: Thread-84
+2026-09-21 11:53:10.085 Thread-0Server Accepts Client Connection from: /127.0.0.1:57028
+2026-09-21 11:53:10.085 Thread-0Starting thread processReqThread: Thread-86
+2026-09-21 11:53:10.087 Thread-0Server Accepts Client Connection from: /127.0.0.1:57029
+2026-09-21 11:53:10.087 Thread-0Starting thread processReqThread: Thread-88
+2026-09-21 11:53:10.091 Thread-0Server Accepts Client Connection from: /127.0.0.1:57030
+2026-09-21 11:53:10.091 Thread-0Starting thread processReqThread: Thread-90
+2026-09-21 11:53:10.093 Thread-0Server Accepts Client Connection from: /127.0.0.1:57031
+2026-09-21 11:53:10.094 Thread-0Starting thread processReqThread: Thread-92
+2026-09-21 11:53:10.095 Thread-0Server Accepts Client Connection from: /127.0.0.1:57032
+2026-09-21 11:53:10.095 Thread-0Starting thread processReqThread: Thread-94
+2026-09-21 11:53:11.599 Thread-0Server Accepts Client Connection from: /127.0.0.1:57033
+2026-09-21 11:53:11.599 Thread-0Starting thread processReqThread: Thread-96
+2026-09-21 16:07:26.787 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53630
+2026-09-21 16:07:26.794 Thread-1Starting thread processReqThread: Thread-2
+2026-09-21 16:07:26.862 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:53639
+2026-09-21 16:07:26.862 Thread-1Starting thread processReqThread: Thread-4
+2026-09-21 16:38:55.934 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:56402
+2026-09-21 16:38:55.936 Thread-1Starting thread processReqThread: Thread-6
+2026-09-21 16:38:56.897 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:56404
+2026-09-21 16:38:56.898 Thread-1Starting thread processReqThread: Thread-8
+2026-09-22 15:09:01.655 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:60905
+2026-09-22 15:09:01.663 Thread-1Starting thread processReqThread: Thread-10
+2026-09-23 14:20:13.985 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:50586
+2026-09-23 14:20:13.996 Thread-1Starting thread processReqThread: Thread-12
+2026-09-23 14:20:14.061 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:50604
+2026-09-23 14:20:14.076 Thread-1Starting thread processReqThread: Thread-14
+2026-09-23 14:20:14.100 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:50626
+2026-09-23 14:20:14.100 Thread-1Starting thread processReqThread: Thread-16
+2026-09-24 11:43:35.734 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:51200
+2026-09-24 11:43:35.738 Thread-1Starting thread processReqThread: Thread-18
+2026-09-24 14:50:34.227 Thread-1Server Accepts Client Connection from: /[0:0:0:0:0:0:0:1]:62043
+2026-09-24 14:50:34.229 Thread-1Starting thread processReqThread: Thread-20
